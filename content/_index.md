@@ -69,10 +69,10 @@ sections:
     url: blog/index.html
 - type: contactblock
   template: contactblock
-  title: Contact Us
+  title: Contato
   section_id: contact
   component: contact_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: Entre em contato conosco
 layout: home
 menu:
   main:
