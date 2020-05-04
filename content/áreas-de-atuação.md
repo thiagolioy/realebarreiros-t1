@@ -12,6 +12,8 @@ weight = 3
 
 Assessoria e consultoria sobre direito do consumidor, incluindo elaboração de estudos e pareceres.
 
+![](/images/13.jpg)
+
 Condução e defesa em procedimentos administrativos.
 
 No campo litigioso, ajuizamento de ações, elaboração de defesas e recursos.

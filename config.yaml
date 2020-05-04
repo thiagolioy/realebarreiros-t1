@@ -2,12 +2,12 @@
 title: Stackbit Exto Theme
 baseURL: "/"
 params:
-  color_scheme: light
+  color_scheme: dark
   accent_color: yellow
   header:
-    title: Real e Barreiros Advogados
+    title: Real e Barreiros
     has_nav: true
-    logo_img: "/images/LOGO_2_sem_fundo 3.png"
+    logo_img: "/images/LOGO_1_-_sem_fundo.png"
   footer:
     content: 'Real e Barreiro Advogados - Rua Dr. Olavo Gomes Pinto, nº.:160, sala
       46, centro, São Lourenço-MG, 37470-000. '
