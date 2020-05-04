@@ -32,10 +32,15 @@ sections:
       Condução e defesa em procedimentos administrativos.
 
       No campo litigioso, ajuizamento de ações, elaboração de defesas e recursos.
-  - title: Service Title
-    content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius. '
+  - title: Direito de Família e Sucessório
+    content: |-
+      Condução de processos consensuais ou litigiosos de divórcio e extinção de união estável, mediação e orientação do casal sobre aspectos patrimoniais.
+
+      Condução de processos consensuais ou litigiosos de pensão alimentícia, alimentos gravídicos, reconhecimento ou negatória de paternidade, ação de guarda de menor.
+
+      Elaboração de testamentos, condução de inventários judiciais e extrajudiciais e orientação de herdeiros sobre a partilha.
+
+      Condução de processos judiciais de interdição
   - title: Service title
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
