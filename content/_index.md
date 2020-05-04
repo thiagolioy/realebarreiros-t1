@@ -58,9 +58,10 @@ sections:
 
       O direito à saúde é previsto em nossa Constituição, devendo ser garantido a todos os cidadãos de forma justa e com qualidade. Profissionais do direito, devem lutar para evitar e abolir qualquer desrespeito e abuso relacionados a este tema.
   - title: Direito do Trabalho
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
+    content: |-
+      O Direito do Trabalho é o ramo do direito que tem por objeto regulamentar normas e princípios para gerir as relações empregatícias e as relações de trabalho especificadas.
+
+      Seu maior objetivo é garantir ao trabalhador direitos básicos, melhores condições de trabalho, inclusive sociais, através de medidas de proteção que proporcionam melhor equilíbrio com a classe patronal (empregador).
 - type: postsblock
   template: postsblock
   title: Últimos posts do Blog
