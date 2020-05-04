@@ -26,11 +26,8 @@ sections:
   subtitle: Áreas em que atuamos.
   serviceslist:
   - title: Direito do Consumidor
-    content: |-
-      Assessoria e consultoria sobre direito do consumidor, incluindo elaboração de estudos e pareceres.
-
-      Condução e defesa em procedimentos administrativos.
-
+    content: Assessoria e consultoria sobre direito do consumidor, incluindo elaboração
+      de estudos e pareceres. Condução e defesa em procedimentos administrativos.
       No campo litigioso, ajuizamento de ações, elaboração de defesas e recursos.
   - title: Direito de Família e Sucessório
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
