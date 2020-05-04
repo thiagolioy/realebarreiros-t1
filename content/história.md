@@ -3,6 +3,8 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "História"
+[menu.main]
+weight = 2
 
 +++
 O escritório Real e Barreiros Advogados iniciou suas atividades no ano de 2014 através da união profissional dos advogados Julianna Real e João Pedro Barreiros.

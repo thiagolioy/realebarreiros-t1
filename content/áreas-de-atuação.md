@@ -5,7 +5,7 @@ subtitle = ""
 title = "Áreas de atuação"
 [menu.main]
 name = "Área de Atuação"
-weight = 2
+weight = 3
 
 +++
 **Direito do Consumidor**
