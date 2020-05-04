@@ -10,7 +10,7 @@ sections:
     Estamos localizados na cidade São Lourenço - MG. Venha nos conhecer.
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Work
+  title: Nosso Escritório
   section_id: latest-projects
   component: portfolio_block.html
   subtitle: An optional subtitle of the section
