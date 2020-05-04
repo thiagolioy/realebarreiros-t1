@@ -42,18 +42,9 @@ sections:
 
       Condução de processos judiciais de interdição
   - title: Direito Médico e da Saúde
-    content: |-
-      * **Médicos e Profissionais da Saúde**
-
-      Consultoria preventiva na elaboração e revisão de contratos, termos de consentimento, termos de recusa de tratamento, etc.
-
-      Orientações ético-legais relativas ao exercício da profissão.
-
-      Atuação em Sindicância e Processo Ético Profissional perante os Conselhos Regionais e Federal.
-
-      Atuação Judicial em casos envolvendo responsabilidade civil.
-
-      Mediação e Conciliação na relação médico-paciente.
+    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
+      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
+      efficitur urna viverra et.
   - title: Direito do Trabalho
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
