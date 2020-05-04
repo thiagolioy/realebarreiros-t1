@@ -59,7 +59,7 @@ sections:
       vel posuere justo laoreet.
 - type: postsblock
   template: postsblock
-  title: Latest from the Blog
+  title: Últimos posts do Blog
   section_id: latest-posts
   component: posts_block.html
   subtitle: An optional subtitle of the section
