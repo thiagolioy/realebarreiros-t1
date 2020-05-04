@@ -41,9 +41,10 @@ sections:
   subtitle: Áreas em que atuamos.
   serviceslist:
   - title: Direito do Consumidor
-    content: Assessoria e consultoria sobre direito do consumidor, incluindo elaboração
-      de estudos e pareceres. Condução e defesa em procedimentos administrativos.
-      No campo litigioso, ajuizamento de ações, elaboração de defesas e recursos.
+    content: |-
+      O Direito do Consumidor é o ramo do direito responsável por regulamentar as relações entre fornecedores de bens e serviços e seus consumidores.
+
+      O Código de Defesa do Consumidor foi criado para equilibrar as relações de consumo, visando garantir a saúde, segurança, informação e orientação aos consumidores para evitar que estes sejam violados e prejudicados.
   - title: Direito de Família e Sucessório
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
