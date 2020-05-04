@@ -65,7 +65,7 @@ sections:
   subtitle: An optional subtitle of the section
   num_posts_displayed: 2
   actions:
-  - label: View Blog
+  - label: Veja no Blog
     url: blog/index.html
 - type: contactblock
   template: contactblock
