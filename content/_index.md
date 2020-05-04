@@ -33,14 +33,9 @@ sections:
 
       No campo litigioso, ajuizamento de ações, elaboração de defesas e recursos.
   - title: Direito de Família e Sucessório
-    content: |-
-      Condução de processos consensuais ou litigiosos de divórcio e extinção de união estável, mediação e orientação do casal sobre aspectos patrimoniais.
-
-      Condução de processos consensuais ou litigiosos de pensão alimentícia, alimentos gravídicos, reconhecimento ou negatória de paternidade, ação de guarda de menor.
-
-      Elaboração de testamentos, condução de inventários judiciais e extrajudiciais e orientação de herdeiros sobre a partilha.
-
-      Condução de processos judiciais de interdição
+    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
+      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
+      efficitur urna viverra et.
   - title: Direito Médico e da Saúde
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
