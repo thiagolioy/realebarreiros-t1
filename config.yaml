@@ -3,7 +3,7 @@ title: Stackbit Exto Theme
 baseURL: "/"
 params:
   color_scheme: dark
-  accent_color: yellow
+  accent_color: green
   header:
     title: Real e Barreiros
     has_nav: true
