@@ -9,11 +9,9 @@ params:
     has_nav: true
     logo_img: "/images/LOGO_2_sem_fundo 3.png"
   footer:
-    content: "&copy; Stackbit-Exto. All rights reserved."
-    links:
-    - text: Made with Stackbit
-      url: https://www.stackbit.com
-      new_window: true
+    content: 'Real e Barreiro Advogados - Rua Dr. Olavo Gomes Pinto, nº.:160, sala
+      46, centro, São Lourenço-MG, 37470-000. '
+    links: []
     has_social: true
 disableKinds:
 - RSS
