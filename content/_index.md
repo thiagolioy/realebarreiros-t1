@@ -46,9 +46,10 @@ sections:
 
       O Código de Defesa do Consumidor foi criado para equilibrar as relações de consumo, visando garantir a saúde, segurança, informação e orientação aos consumidores para evitar que estes sejam violados e prejudicados.
   - title: Direito de Família e Sucessório
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
+    content: "O Direito de Família é o ramo do direito que visa regulamentar as questões
+      entre entes da comunidade familiar, como regime de casamento, união estável,
+      paternidade, alimentos etc. \n\nO Direito Sucessório trata das questões relacionadas
+      ao evento morte, afim de regulamentar a transferência de patrimônio do falecido. "
   - title: Direito Médico e da Saúde
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
