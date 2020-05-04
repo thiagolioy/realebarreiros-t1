@@ -43,7 +43,7 @@ sections:
       efficitur urna viverra et.
 - type: testimonialsblock
   template: testimonialsblock
-  title: Testimonials
+  title: Testemunhos
   section_id: testimonials
   component: testimonials_block.html
   subtitle: An optional subtitle of the section
