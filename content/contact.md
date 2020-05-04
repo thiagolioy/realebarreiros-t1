@@ -1,9 +1,11 @@
 ---
-title: Contact
+title: Contato
 layout: contact
+subtitle: ''
+img_path: ''
 menu:
   main:
     weight: 7
 
 ---
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
+Olá! Gostaríamos de agradecer o interesse no nosso escritório. Por favor, preencha o formulário abaixo ou entre com contato no email [example@example.com](mailto:example@example.com).
