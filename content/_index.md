@@ -51,9 +51,12 @@ sections:
       paternidade, alimentos etc. \n\nO Direito Sucessório trata das questões relacionadas
       ao evento morte, afim de regulamentar a transferência de patrimônio do falecido. "
   - title: Direito Médico e da Saúde
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
+    content: |-
+      O Direito Médico é o ramo que estabelece os direitos e deveres dos profissionais e instituições de saúde, bem como, de pacientes que utilizam os serviços de saúde.
+
+      Ética e responsabilidade são temas disciplinados por este ramo.
+
+      O direito à saúde é previsto em nossa Constituição, devendo ser garantido a todos os cidadãos de forma justa e com qualidade. O Direito deve lutar para evitar e abolir qualquer desrespeito e abuso relacionados a este tema.
   - title: Direito do Trabalho
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
