@@ -6,7 +6,10 @@ sections:
   title: Real e Barreiros Advogados
   section_id: hero
   component: hero_block.html
-  content: Escritorio
+  content: |-
+    Escritorio
+
+    ![](/images/10.jpg)
 - type: portfolioblock
   template: portfolioblock
   title: Nosso Escritório
