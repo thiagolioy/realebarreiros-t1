@@ -41,9 +41,19 @@ sections:
       Elaboração de testamentos, condução de inventários judiciais e extrajudiciais e orientação de herdeiros sobre a partilha.
 
       Condução de processos judiciais de interdição
-  - title: Service title
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - title: Direito Médico e da Saúde
+    content: |-
+      * **Médicos e Profissionais da Saúde**
+
+      Consultoria preventiva na elaboração e revisão de contratos, termos de consentimento, termos de recusa de tratamento, etc.
+
+      Orientações ético-legais relativas ao exercício da profissão.
+
+      Atuação em Sindicância e Processo Ético Profissional perante os Conselhos Regionais e Federal.
+
+      Atuação Judicial em casos envolvendo responsabilidade civil.
+
+      Mediação e Conciliação na relação médico-paciente.
   - title: Service title
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
