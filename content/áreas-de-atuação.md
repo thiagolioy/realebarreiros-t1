@@ -3,6 +3,9 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Áreas de atuação"
+[menu.main]
+name = "Área de Atuação"
+weight = 2
 
 +++
 **Direito do Consumidor**
