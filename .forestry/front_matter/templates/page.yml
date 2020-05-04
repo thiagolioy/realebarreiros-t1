@@ -25,5 +25,6 @@ fields:
     required: true
 pages:
 - content/about.md
+- content/história.md
 - content/style-guide.md
 - content/áreas-de-atuação.md
