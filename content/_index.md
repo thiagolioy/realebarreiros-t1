@@ -6,8 +6,7 @@ sections:
   title: Real e Barreiros Advogados
   section_id: hero
   component: hero_block.html
-  content: Somos um escritório de advocacia especializado em direito médico e do trabalho.
-    Estamos localizados na cidade São Lourenço - MG. Venha nos conhecer.
+  content: Escritorio
 - type: portfolioblock
   template: portfolioblock
   title: Nosso Escritório
