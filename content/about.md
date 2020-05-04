@@ -18,5 +18,7 @@ In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et n
 _Thank You for reading!_
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=sM-mTw3GsqM&t=4s" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sM-mTw3GsqM" allowfullscreen></iframe>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sM-mTw3GsqM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
