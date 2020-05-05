@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Artigos
 layout: blog
 menu:
   main:
