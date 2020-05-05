@@ -7,7 +7,7 @@ sections:
   section_id: hero
   component: hero_block.html
   content: |-
-    Advocacia e Assessoria Jurídica personalizada e especializada.
+    Advocacia e Assessoria Jurídica especializada e personalizada.
 
     ![](/images/ESCRITORIO- REDUZIDA.jpg)
 - type: portfolioblock
