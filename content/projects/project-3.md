@@ -1,11 +1,10 @@
 ---
 title: Dra. Julianna Real
 subtitle: ''
-date: '2019-04-08'
-thumb_img_path: images/3_thumb.jpg
-content_img_path: images/3.jpg
+date: 2019-04-08
+thumb_img_path: "/images/juju.jpg"
+content_img_path: "/images/juju.jpg"
 layout: project
-img_path: "/images/juju.jpg"
 
 ---
 Dra. Julianna Real Garcia Pires
