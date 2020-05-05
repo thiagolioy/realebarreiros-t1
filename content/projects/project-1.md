@@ -2,8 +2,8 @@
 title: Nosso Escritório
 subtitle: Optional Project Subtitle
 date: 2019-05-10
-thumb_img_path: "/images/adult-business-computer-contemporary-380769.jpg"
-content_img_path: "/images/adult-business-computer-contemporary-380769-1.jpg"
+thumb_img_path: "/images/ESCRITORIO REDUZIDA 2.jpg"
+content_img_path: ''
 layout: project
 
 ---
