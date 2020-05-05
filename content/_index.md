@@ -9,7 +9,7 @@ sections:
   content: |-
     Advocacia e Assessoria Jurídica personalizada e especializada.
 
-                                ![](/images/WhatsApp Image 2020-05-05 at 14.31.09.jpeg)
+                                ![](/images/ESCRITORIO.jpeg)
 - type: portfolioblock
   template: portfolioblock
   title: Destaques
