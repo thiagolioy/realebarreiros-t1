@@ -5,7 +5,7 @@ img_path: images/about.jpg
 layout: page
 menu:
   main:
-    name: About
+    name: Notícias
     weight: 6
 
 ---
