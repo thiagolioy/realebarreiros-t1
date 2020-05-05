@@ -1,6 +1,6 @@
 ---
-title: Notícias
-subtitle: Decisões recentes em nosso mundo jurídico.
+title: Portfolio
+subtitle: ''
 layout_style: mosaic
 layout: portfolio
 
