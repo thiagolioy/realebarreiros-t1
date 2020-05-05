@@ -11,9 +11,7 @@ params:
   footer:
     content: Real e Barreiros Advogados - Rua Dr. Olavo Gomes Pinto, nº.:160, sala
       46, centro, São Lourenço-MG, 37470-000.
-    links:
-    - url: https://www.google.com.br/maps/place/Av.+Dr.+Ol%C3%A1vo+Gomes+Pinto,+160,+S%C3%A3o+Louren%C3%A7o+-+MG,+37470-000/@-22.1161181,-45.0557322,17z/data=!3m1!4b1!4m5!3m4!1s0x94cb4b947d398f2b:0x5aca6375a6e39008!8m2!3d-22.1161231!4d-45.0535435
-      new_window: false
+    links: []
     has_social: true
 disableKinds:
 - RSS
