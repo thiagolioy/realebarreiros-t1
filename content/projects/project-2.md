@@ -1,21 +1,22 @@
 ---
-title: Dr. João Pedro Barreiros
-subtitle: ''
-date: '2019-04-30'
-thumb_img_path: "/images/adult-blur-boss-business-288477.jpg"
-content_img_path: "/images/adult-blur-boss-business-288477-1.jpg"
+title: Dr. João Pedro
+subtitle: Optional Project Subtitle
+date: 2019-04-30
+thumb_img_path: "/images/PXNA5305.JPG"
+content_img_path: "/images/PXNA5305.JPG"
 layout: project
-img_path: "/images/PXNA5305.JPG"
 
 ---
-João Pedro Barreiros M. Camões é advogado, formado no ano de 2014 em Direito pela Faculdade São Lourenço e inscrito na OAB/MG sob o nº.: 157.831.
+João Pedro Barreiros M. Camões – Advogado inscrito na OAB/MG sob o nº.: 157.831.
 
-Logo após a conclusão de seu curso e diante de sua paixão pela área trabalhista, iniciou o curso de pós graduação em Direito do Trabalho pela Faculdade Damásio, obtendo o certificado de especialista no ano de 2017.
+**Formação:**
 
-Após a conclusão de sua primeira pós graduação e bastante influenciado por sua esposa que acabara de se formar em Medicina, ingressou na especialização em Direito Médico e Hospitalar na Escola Paulista de Direito, tornando-se especialista na área no ano de 2019.
+Direito – Faculdade São Lourenço em 2014
 
-Sempre com sede de aprendizado e motivado a evoluir e aumentar os seus conhecimentos é grande frequentador de congressos, seminários e simpósios em ambas as áreas.
+Especialização em Direito do Trabalho – Faculdade Damásio em 2017.
 
-> #### "Vejo que a atuação do advogado deve ir além dos limites da criação e acompanhamento processual. Nós lidamos com pessoas, direitos que impactam diretamente na vida delas. É preciso ter humanidade, garantir uma atenção digna e sempre buscar o melhor e mais justo resultado para o cliente."
+Especialização em Direito Médico e Hospitalar – Escola Paulista de Direito, EPD em 2018.
 
-.
+> "Every great design begins with an even better story." - Lorinda Mamo
+
+Tempor orci eu lobortis elementum nibh. Tincidunt dui ut ornare lectus. Sagittis purus sit amet volutpat consequat mauris nunc. Turpis egestas pretium aenean pharetra. Egestas congue quisque egestas diam. Interdum velit euismod in pellentesque massa. Sapien et ligula ullamcorper malesuada proin libero nunc. Elit at imperdiet dui accumsan sit amet nulla. Facilisi nullam vehicula ipsum a. Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper.
