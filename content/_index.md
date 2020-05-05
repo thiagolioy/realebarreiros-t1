@@ -6,7 +6,8 @@ sections:
   title: Real e Barreiros Advogados
   section_id: hero
   component: hero_block.html
-  content: Escritorio
+  content: 'Assessoria e Consultoria Jurídica personalizada e especializada são sinônimos
+    de resultado e qualidade. '
 - type: portfolioblock
   template: portfolioblock
   title: Nosso Escritório
