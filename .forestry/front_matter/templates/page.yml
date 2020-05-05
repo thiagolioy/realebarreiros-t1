@@ -24,7 +24,6 @@ fields:
   config:
     required: true
 pages:
-- content/Notícias/tribunal-realiza-primeiro-acordo-trabalhista-por-videoconferência-relacionado-à-pandemia.md
 - content/about.md
 - content/história.md
 - content/style-guide.md
