@@ -5,6 +5,7 @@ date: 2019-04-08
 thumb_img_path: "/images/juju.jpg"
 content_img_path: "/images/juju.jpg"
 layout: project
+draft: true
 
 ---
 Dra. Julianna Real Garcia Pires
