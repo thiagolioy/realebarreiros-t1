@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+title: Notícias
+subtitle: Decisões recentes em nosso mundo jurídico.
 layout_style: mosaic
 layout: portfolio
 
