@@ -1,5 +1,5 @@
 +++
-img_path = ""
+img_path = "/images/ESCRITORIO.jpeg"
 layout = "page"
 subtitle = ""
 title = "Escritório"
@@ -9,9 +9,9 @@ weight = 2
 +++
 O escritório Real e Barreiros Advogados iniciou suas atividades no ano de 2015 através da união profissional dos advogados Julianna Real e João Pedro Barreiros.
 
-### Com um compromisso de uma atuação objetiva, ética, moderna e eficaz, prestamos atendimento personalizado e exclusivo para tratar das peculiaridades de cada caso apresentado por nossos clientes.
+#### Com um compromisso de uma atuação objetiva, ética, moderna e eficaz, prestamos atendimento personalizado e exclusivo para tratar das peculiaridades de cada caso apresentado por nossos clientes.
 
-### Efetividade e proatividade, nos garante ganho de eficiência, qualidade e rapidez no trabalho.
+#### Efetividade e proatividade, nos garante ganho de eficiência, qualidade e rapidez no trabalho.
 
 Estamos em constante aperfeiçoamento e evolução técnica em nossa atuação profissional, o que consideramos imprescindível para o cumprimento da nossa missão.
 
