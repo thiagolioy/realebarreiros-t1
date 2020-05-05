@@ -6,10 +6,7 @@ sections:
   title: Real e Barreiros Advogados
   section_id: hero
   component: hero_block.html
-  content: |-
-    Advocacia e Assessoria Jurídica especializada e personalizada.
-
-    ![](/images/ESCRITORIO- REDUZIDA.jpg)
+  content: Advocacia e Assessoria Jurídica especializada e personalizada.
 - type: portfolioblock
   template: portfolioblock
   title: Destaques
