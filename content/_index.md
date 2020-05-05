@@ -23,7 +23,7 @@ sections:
   title: Áreas de atuação
   section_id: services
   component: services_block.html
-  subtitle: Áreas em que atuamos.
+  subtitle: ''
   serviceslist:
   - title: Direito do Consumidor
     content: |-
