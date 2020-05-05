@@ -2,7 +2,7 @@
 title: Nosso Escritório
 subtitle: Optional Project Subtitle
 date: 2019-05-10
-thumb_img_path: "/images/ESCRITORIO REDUZIDA 2.jpg"
+thumb_img_path: "/images/ESCRITORIO REDUZIDA 3.jpg"
 content_img_path: ''
 layout: project
 
