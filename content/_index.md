@@ -49,7 +49,7 @@ sections:
       Seu maior objetivo é garantir ao trabalhador direitos básicos, melhores condições de trabalho, inclusive sociais, através de medidas de proteção que proporcionam melhor equilíbrio com a classe patronal (empregador).
 - type: postsblock
   template: postsblock
-  title: Últimos posts do Blog
+  title: Últimos artigos
   section_id: latest-posts
   component: posts_block.html
   subtitle: An optional subtitle of the section
