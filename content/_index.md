@@ -10,10 +10,10 @@ sections:
     de resultado e qualidade. '
 - type: portfolioblock
   template: portfolioblock
-  title: Escritório
+  title: Destaques
   section_id: latest-projects
   component: portfolio_block.html
-  subtitle: Conheça nossa história
+  subtitle: ''
   layout_style: mosaic
   num_projects_displayed: 4
   view_all_text: Veja mais
