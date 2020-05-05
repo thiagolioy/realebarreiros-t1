@@ -24,7 +24,6 @@ fields:
   config:
     required: true
 pages:
-- content/about-us.md
 - content/about.md
 - content/história.md
 - content/style-guide.md
