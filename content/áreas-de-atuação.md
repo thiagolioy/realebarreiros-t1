@@ -8,17 +8,15 @@ name = "Área de Atuação"
 weight = 3
 
 +++
-**Direito do Consumidor**
+### **Direito do Consumidor**
 
 Assessoria e consultoria sobre direito do consumidor, incluindo elaboração de estudos e pareceres.
-
-![](/images/13.jpg)
 
 Condução e defesa em procedimentos administrativos.
 
 No campo litigioso, ajuizamento de ações, elaboração de defesas e recursos.
 
-**Direito de Família e Sucessório**
+### **Direito de Família e Sucessório**
 
 Condução de processos consensuais ou litigiosos de divórcio e extinção de união estável, mediação e orientação do casal sobre aspectos patrimoniais.
 
@@ -28,7 +26,7 @@ Elaboração de testamentos, condução de inventários judiciais e extrajudicia
 
 Condução de processos judiciais de interdição
 
-**Direito Médico e da Saúde**
+### **Direito Médico e da Saúde**
 
 * **Médicos e Profissionais da Saúde**
 
@@ -62,7 +60,7 @@ Reembolso de despesas médico-hospitalares.
 
 Cancelamento indevido de contrato.
 
-**Clínicas, Hospitais, Laboratórios**
+* **Clínicas, Hospitais, Laboratórios**
 
 Consultoria preventiva na elaboração e revisão de contratos, termos de consentimento, termos de recusa de tratamento, etc.
 
@@ -72,7 +70,13 @@ Atuação em Sindicância e Processo Ético Profissional perante os Conselhos Re
 
 Atuação Judicial em casos envolvendo responsabilidade civil.
 
-**Direito do Trabalho**
+### **Direito Previdenciário**
+
+Encaminhamento administrativo e judicial para aposentadorias, pensões e benefícios.
+
+Análise para correção e restabelecimento de benefícios, pensões e aposentadoria.
+
+### **Direito do Trabalho**
 
 * **Contencioso**
 
