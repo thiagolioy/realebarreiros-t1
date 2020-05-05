@@ -20,7 +20,7 @@ O TCLE – Termo de Consentimento Livre e Esclarecido, não pode ser utilizado c
 
 > ##### As informações passadas ao paciente devem ser em uma linguagem simples e acessível, que permita o devido esclarecimento e consciente permissão, evitando assim, uma compreensão defeituosa. São necessárias informações particulares específicas do procedimento que será realizado, seus objetivos, riscos, benefícios, sua duração e suas alternativas, entre outras.
 
-O paciente deve capaz civilmente e apto para entender e considerar razoavelmente a proposta ou conduta apresenta pelo profissional. E por óbvio, não pode haver qualquer indício de influência, coação ou indução ao paciente para que tome a sua decisão.
+O paciente deve ser capaz civilmente e apto para entender e considerar razoavelmente a proposta ou conduta apresenta pelo profissional. E por óbvio, não pode haver qualquer indício de influência, coação ou indução ao paciente para que tome a sua decisão.
 
 Sugere-se ao profissional que apresente o TCLE ao seu paciente e lhe conceda um tempo (dias) para avalia-lo, e inclua no termo, espaços em branco para que o mesmo possa questionar ou apresentar dúvidas.
 
