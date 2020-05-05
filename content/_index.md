@@ -9,7 +9,7 @@ sections:
   content: |-
     Advocacia e Assessoria Jurídica personalizada e especializada.
 
-    ![](/images/ESCRITORIO.jpeg)
+    ![](/images/ESCRITORIO- REDUZIDA.jpg)
 - type: portfolioblock
   template: portfolioblock
   title: Destaques
