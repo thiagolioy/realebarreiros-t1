@@ -52,7 +52,7 @@ sections:
   title: Últimos artigos
   section_id: latest-posts
   component: posts_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: ''
   num_posts_displayed: 2
   actions:
   - label: Veja no Blog
