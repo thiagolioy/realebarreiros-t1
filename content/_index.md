@@ -7,7 +7,7 @@ sections:
   section_id: hero
   component: hero_block.html
   content: |-
-    Assessoria e Consultoria Jurídica personalizada e especializada são sinônimos de resultado e qualidade.
+    Advocacia e Assessoria Jurídica personalizada e especializada.
 
                                 ![](/images/WhatsApp Image 2020-05-05 at 14.31.09.jpeg)
 - type: portfolioblock
