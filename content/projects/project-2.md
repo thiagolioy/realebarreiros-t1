@@ -1,5 +1,5 @@
 ---
-title: Dr. João Pedro
+title: Dr. João Pedro Barreiros
 subtitle: ''
 date: 2019-04-30
 thumb_img_path: "/images/PXNA5305.JPG"
