@@ -1,5 +1,4 @@
 +++
-draft = true
 img_path = "/images/juiz-segurando-caneta-verificar-documento-sobre-escrivaninha-madeira_23-2147898393.jpg"
 layout = "page"
 subtitle = ""
