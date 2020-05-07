@@ -5,10 +5,6 @@ date: '2019-04-08'
 thumb_img_path: "/images/juju.jpg"
 content_img_path: "/images/juju.jpg"
 layout: project
-menu:
-  main:
-    name: Notícias
-    weight: 6
 
 ---
 Dra. Julianna Real Garcia Pires
