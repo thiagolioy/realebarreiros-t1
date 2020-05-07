@@ -15,5 +15,3 @@ fields:
   default: noticia
   config:
     required: true
-pages:
-- content/news/_index.md
