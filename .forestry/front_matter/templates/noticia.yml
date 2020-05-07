@@ -36,3 +36,5 @@ fields:
   default: noticia
   config:
     required: true
+pages:
+- content/news/nova-noticia-1-1.md
