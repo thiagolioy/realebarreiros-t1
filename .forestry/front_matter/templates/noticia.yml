@@ -1,0 +1,41 @@
+---
+label: Noticia
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: The title of the news
+  config:
+    required: true
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: The text shown just below the news title.
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+- type: file
+  name: thumb_img_path
+  label: Featured Image
+  description: The image shown in the news feed.
+- type: file
+  name: content_img_path
+  label: Alternative Featured Image
+  description: The image shown in the single news.
+- type: text
+  name: excerpt
+  label: Excerpt
+  description: The excerpt of the news displayed in the blog feed.
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: post
+  config:
+    required: true
+pages:
+- content/news/noticia-1.md
+- content/news/noticia-2.md

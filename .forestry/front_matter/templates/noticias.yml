@@ -2,15 +2,18 @@
 label: Notícias
 hide_body: true
 fields:
-- name: title
-  type: text
-  config:
-    required: true
+- type: text
+  name: title
   label: Title
-- name: layout
-  type: text
+  description: The title of the page.
   config:
     required: true
+- type: text
+  name: layout
   label: Layout
   hidden: true
-  default: blog
+  default: noticia
+  config:
+    required: true
+pages:
+- content/news/_index.md
