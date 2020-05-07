@@ -16,4 +16,4 @@ fields:
   config:
     required: true
 pages:
-- content/news/_index.md
+- content/noticias/_index.md
