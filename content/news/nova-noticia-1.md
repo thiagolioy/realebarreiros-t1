@@ -1,7 +1,6 @@
 +++
 content_img_path = "/images/desesperado-e-com-medo-empresario-mantendo-silencio_1262-18216.jpg"
 date = 2020-05-08T03:00:00Z
-draft = true
 excerpt = ""
 layout = "post"
 subtitle = ""
