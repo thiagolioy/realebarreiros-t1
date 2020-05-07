@@ -8,4 +8,8 @@ menu:
     weight: 6
 
 ---
-Olá! Gostaríamos de agradecer o interesse em nosso escritório. Por favor, preencha o formulário abaixo ou entre com contato no email joaopedro@realebarreiros.com.br ou juliannareal@realebarreiros.com.br
+Olá! Gostaríamos de agradecer o interesse em nosso escritório. Caso tenha enderece em entrar em contato, preencha o formulário abaixo ou utilize nossos canais de comunicação.
+
+Dra. Julianna Real: (35)99844-7823 / juliannareal@realebarreiros.com
+
+Dr. João Pedro Barreiros: (35)98857-5949 / joaopedro@realebarreiros.com.br
