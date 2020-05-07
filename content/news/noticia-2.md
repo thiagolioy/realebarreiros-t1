@@ -1,7 +1,6 @@
 +++
 content_img_path = "/images/5_thumb.jpg"
 date = 2020-05-04T03:00:00Z
-draft = true
 excerpt = ""
 layout = "post"
 subtitle = ""
