@@ -58,10 +58,10 @@ sections:
     url: blog/index.html
 - type: testimonialsblock
   template: testimonialsblock
-  title: Testemunhos
+  title: Depoimentos
   section_id: testimonials
   component: testimonials_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: ''
   testimonialslist:
   - author: John Doe
     avatar: ''
