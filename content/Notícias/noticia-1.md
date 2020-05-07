@@ -1,5 +1,4 @@
 +++
-draft = true
 img_path = "/images/medico-com-tablet-digital_1098-18240.jpg"
 layout = "page"
 subtitle = "Subtitle Noticia 1"
