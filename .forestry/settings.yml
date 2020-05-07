@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/news/_index.md
   label: Notícias
-  match: "**/*"
 - type: document
   path: config.yaml
   label: Global Site Config
