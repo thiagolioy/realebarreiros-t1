@@ -4,5 +4,4 @@ layout: news
 menu:
   main:
     weight: 6
-
 ---
