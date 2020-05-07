@@ -1,9 +1,8 @@
 ---
-title: Noticias
-layout: blog
+title: Notícias
+layout: news
 menu:
   main:
-    name: Notícias
     weight: 6
 
 ---
