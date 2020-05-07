@@ -36,6 +36,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- content/news/noticia-1.md
-- content/news/noticia-2.md
