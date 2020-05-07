@@ -24,7 +24,6 @@ fields:
   config:
     required: true
 pages:
-- content/Notícias/noticia-1.md
 - content/about.md
 - content/história.md
 - content/style-guide.md
