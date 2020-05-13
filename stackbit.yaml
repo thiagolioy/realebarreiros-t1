@@ -209,12 +209,30 @@ models:
             - heroblock
             - portfolioblock
             - postsblock
+            - newsblock
             - servicesblock
             - testimonialsblock
       - type: page_menus
         name: menu
         label: Home Menus
         description: Which menus should this page show up in
+  news:
+    type: page
+    label: News
+    template: news
+    file: news/_index.md
+    hideContent: true
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: page_menus
+        name: menu
+        label: News Menus
+        description: Which news menus should this page show up in
   blog:
     type: page
     label: Blog
@@ -342,6 +360,41 @@ models:
       - type: page_menus
         name: menu
         label: Post Menus
+        description: Which menus should this page show up in
+  news_post:
+    type: page
+    label: News Post
+    template: news_post
+    folder: news_posts
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the news post
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown just below the news post title.
+      - type: date
+        name: date
+        label: Date
+        required: true
+      - type: image
+        name: thumb_img_path
+        label: Featured Image
+        description: The image shown in the news feed.
+      - type: image
+        name: content_img_path
+        label: Alternative Featured Image
+        description: The image shown in the single news post.
+      - type: string
+        name: excerpt
+        label: Excerpt
+        description: The excerpt of the post displayed in the news feed.
+      - type: page_menus
+        name: menu
+        label: News Post Menus
         description: Which menus should this page show up in
   project:
     type: page
@@ -506,6 +559,27 @@ models:
         label: Action Buttons
         items:
           type: action
+  newsblock:
+    type: object
+    label: Latest News
+    extends:
+      - section
+    fields:
+      - name: component
+        default: news_block.html
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section.
+      - type: number
+        name: num_posts_displayed
+        label: Number of posts to display
+        required: true
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: action        
   servicesblock:
     type: object
     label: Services Section

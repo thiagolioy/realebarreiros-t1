@@ -56,6 +56,16 @@ sections:
   actions:
   - label: Veja no Blog
     url: blog/index.html
+- type: newsblock
+  template: newsblock
+  title: Últimas Noticías
+  section_id: latest-posts
+  component: news_block.html
+  subtitle: ''
+  num_posts_displayed: 2
+  actions:
+  - label: Veja nas Notícias
+    url: news/index.html        
 - type: testimonialsblock
   template: testimonialsblock
   title: Depoimentos

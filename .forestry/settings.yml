@@ -30,6 +30,11 @@ sections:
   templates:
   - blog
 - type: document
+  path: content/news/_index.md
+  label: News
+  templates:
+  - news  
+- type: document
   path: content/portfolio/_index.md
   label: Portfolio
   templates:
@@ -44,7 +49,7 @@ sections:
   label: Page
   create: all
   match: "**/*"
-  exclude: "{posts/**,_index.md,blog/_index.md,portfolio/_index.md,contact.md}"
+  exclude: "{posts/**, news_posts/**,_index.md,blog/_index.md, news/_index.md,portfolio/_index.md,contact.md}"
   templates:
   - page
 - type: directory
@@ -54,6 +59,13 @@ sections:
   match: "**/*"
   templates:
   - post
+- type: directory
+  path: content/news_posts
+  label: News Post
+  create: all
+  match: "**/*"
+  templates:
+  - news_post  
 - type: directory
   path: content/projects
   label: Project

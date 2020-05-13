@@ -18,6 +18,7 @@ fields:
   - heroblock
   - portfolioblock
   - postsblock
+  - newsblock
   - servicesblock
   - testimonialsblock
 - type: text
