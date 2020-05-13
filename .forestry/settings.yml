@@ -33,7 +33,7 @@ sections:
   path: content/news/_index.md
   label: News
   templates:
-  - news  
+  - news
 - type: document
   path: content/portfolio/_index.md
   label: Portfolio
@@ -65,7 +65,7 @@ sections:
   create: all
   match: "**/*"
   templates:
-  - news_post  
+  - news_post
 - type: directory
   path: content/projects
   label: Project

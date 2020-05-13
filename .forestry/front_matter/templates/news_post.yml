@@ -38,3 +38,4 @@ fields:
     required: true
 pages:
 - content/news_posts/news_post_1.md
+- content/news_posts/novo-teste-de-uma-nova-noticia-do-forestry.md
