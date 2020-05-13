@@ -7,7 +7,7 @@ title = "Direito Médico"
 weight = 7
 
 +++
-### Médicos e Profissionais da Saúde**
+### Médicos e Profissionais da Saúde
 
 * Consultoria preventiva na elaboração e revisão de contratos, termos de consentimento, termos de recusa de tratamento, etc.
 * Orientações ético-legais relativas ao exercício da profissão.
