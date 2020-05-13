@@ -29,7 +29,7 @@ O Direito Médico é o ramo que estabelece os direitos e deveres dos profissiona
 
 Ética e responsabilidade são temas disciplinados por este ramo.
 
-O direito à saúde é previsto em nossa Constituição, devendo ser garantido a todos os cidadãos de forma justa e com qualidade. Profissionais do direito, devem lutar para evitar e abolir qualquer desrespeito e abuso relacionados a este tema. <a href="/direitomedico" rel="direitomedico">Saiba Mais.</a>
+O direito à saúde é previsto em nossa Constituição, devendo ser garantido a todos os cidadãos de forma justa e com qualidade. Profissionais do direito, devem lutar para evitar e abolir qualquer desrespeito e abuso relacionados a este tema. <a href="/direito-médico/" rel="direito-médico/">Saiba Mais.</a>
 
 
 ### Direito do Trabalho
