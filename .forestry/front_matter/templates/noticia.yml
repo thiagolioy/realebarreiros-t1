@@ -36,5 +36,3 @@ fields:
   default: noticia
   config:
     required: true
-pages:
-- content/noticias/noticia-covid.md
