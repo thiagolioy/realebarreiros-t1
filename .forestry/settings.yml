@@ -4,14 +4,6 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5eb04644ed1a5000191427e1/webhook/forestry
 sections:
-- type: directory
-  path: content/noticias
-  label: Notícia
-  create: all
-  match: "**/*"
-  exclude: content/noticias/_index.md
-  templates:
-  - noticia
 - type: document
   path: content/noticias/_index.md
   label: Notícias
