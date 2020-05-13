@@ -65,7 +65,7 @@ sections:
   num_posts_displayed: 2
   actions:
   - label: Veja nas Notícias
-    url: news/index.html        
+    url: news/index.html
 - type: testimonialsblock
   template: testimonialsblock
   title: Depoimentos
