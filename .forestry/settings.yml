@@ -9,6 +9,7 @@ sections:
   label: Notícia
   create: all
   match: "**/*"
+  exclude: content/noticias/_index.md
   templates:
   - noticia
 - type: document

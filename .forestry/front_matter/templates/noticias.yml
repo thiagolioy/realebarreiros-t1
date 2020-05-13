@@ -17,3 +17,4 @@ fields:
     required: true
 pages:
 - content/noticias/_index.md
+- content/noticias/_index.md
