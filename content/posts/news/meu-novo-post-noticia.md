@@ -6,9 +6,6 @@ layout = "post"
 subtitle = "novo post noticia"
 thumb_img_path = "/images/juiz-segurando-caneta-verificar-documento-sobre-escrivaninha-madeira_23-2147898393.jpg"
 title = "Meu Novo Post Noticia"
-[menu.main]
-name = "Teste"
-weight = 6
 
 +++
 hsajdhksjah djkh djksah djkahs djkh ajkshdjkhs jkadhjk   
