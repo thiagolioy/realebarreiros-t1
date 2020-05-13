@@ -25,6 +25,7 @@ fields:
     required: true
 pages:
 - content/about.md
+- content/direito-médico.md
 - content/história.md
 - content/style-guide.md
 - content/áreas-de-atuação.md
