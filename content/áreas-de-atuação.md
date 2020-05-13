@@ -8,7 +8,6 @@ name = "Área de Atuação"
 weight = 3
 
 +++
-
 ### Direito do Consumidor
 
 * Assessoria e consultoria sobre direito do consumidor, incluindo elaboração de estudos e pareceres.

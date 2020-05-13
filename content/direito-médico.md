@@ -3,6 +3,8 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Direito Médico"
+[menu.main]
+weight = 7
 
 +++
 **Direito Médico e da Saúde**
