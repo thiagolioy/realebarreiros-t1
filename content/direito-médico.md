@@ -7,7 +7,7 @@ title = "Direito Médico"
 weight = 7
 
 +++
-## Médicos e Profissionais da Saúde**
+### Médicos e Profissionais da Saúde**
 
 * Consultoria preventiva na elaboração e revisão de contratos, termos de consentimento, termos de recusa de tratamento, etc.
 * Orientações ético-legais relativas ao exercício da profissão.
@@ -15,7 +15,7 @@ weight = 7
 * Atuação Judicial em casos envolvendo responsabilidade civil.
 * Mediação e Conciliação na relação médico-paciente.
 
-## Pacientes
+### Pacientes
 
 * Cobertura de procedimentos, internações e exames.
 * Fornecimento de medicamentos de alto custo.
@@ -27,7 +27,7 @@ weight = 7
 * Reembolso de despesas médico-hospitalares.
 * Cancelamento indevido de contrato.
 
-## Clínicas, Hospitais, Laboratórios
+### Clínicas, Hospitais, Laboratórios
 
 * Consultoria preventiva na elaboração e revisão de contratos, termos de consentimento, termos de recusa de tratamento, etc.
 * Orientações ético-legais relativas ao exercício da profissão.
