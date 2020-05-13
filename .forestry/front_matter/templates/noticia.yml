@@ -37,5 +37,5 @@ fields:
   config:
     required: true
 pages:
-- content/news/noticia-covid.md
-- content/news/nova-noticia-1-1.md
+- content/noticias/noticia-covid.md
+- content/noticias/nova-noticia-1-1.md
