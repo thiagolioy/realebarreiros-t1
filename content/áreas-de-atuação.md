@@ -37,4 +37,4 @@ O direito à saúde é previsto em nossa Constituição, devendo ser garantido a
 
 O Direito do Trabalho é o ramo do direito que tem por objeto regulamentar normas e princípios para gerir as relações empregatícias e as relações de trabalho especificadas.
 
-Seu maior objetivo é garantir ao trabalhador direitos básicos, melhores condições de trabalho, inclusive sociais, através de medidas de proteção que proporcionam melhor equilíbrio com a classe patronal (empregador). <a href="/direitotrabalho" rel="direitotrabalho">Saiba Mais.</a> 
+Seu maior objetivo é garantir ao trabalhador direitos básicos, melhores condições de trabalho, inclusive sociais, através de medidas de proteção que proporcionam melhor equilíbrio com a classe patronal (empregador). <a href="/direitotrabalho" rel="direitotrabalho">Saiba Mais.</a>
