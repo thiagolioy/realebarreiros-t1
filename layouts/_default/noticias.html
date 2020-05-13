@@ -4,6 +4,17 @@
   <div class="inner">
 
     <div class="post-feed">
+
+      <article class="post">
+        <header class="post-header inner-small">
+          <h2 class="post-title line-top"><a href="https://realebarreiros-t1-04644.netlify.app/história/" rel="bookmark">Nosso Escritório</a></h2>
+          
+        </header><!-- .post-header -->
+        <a class="post-thumbnail" href="{{ $post.URL }}">
+          <img class="thumbnail" src="/images/WhatsApp%20Image%202020-05-05%20at%2014.31.10%20%281%29.jpeg" alt="Nosso Escritório" />
+        </a>
+      </article><!-- .post -->
+
       {{ $display_posts := ((.Site.GetPage "section" "/noticias").Pages).ByDate.Reverse }}
       {{ range $post := $display_posts }}
       <article class="post">
