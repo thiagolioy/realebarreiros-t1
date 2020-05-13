@@ -3,8 +3,6 @@ img_path = "/images/medico-e-paciente_1421-63.jpg"
 layout = "page"
 subtitle = "Area para subtitulo do direito médico. Se desejado."
 title = "Direito Médico"
-[menu.main]
-weight = 7
 
 +++
 ### Médicos e Profissionais da Saúde

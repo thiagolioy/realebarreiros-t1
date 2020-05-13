@@ -3,8 +3,6 @@ img_path = "/images/close-up-de-themis-ou-senhora-justica-segurando-escala-frent
 layout = "page"
 subtitle = "Area subtitulo para direito do trabalho."
 title = "Direito Trabalho"
-[menu.main]
-weight = 8
 
 +++
 ### Contencioso
