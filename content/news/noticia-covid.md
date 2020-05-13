@@ -6,9 +6,6 @@ layout = "noticia"
 subtitle = "Noticia Covid"
 thumb_img_path = "/images/equipe-de-acordo-amigo-de-colarinho-branco_1262-2253.jpg"
 title = "Noticia Covid"
-[menu.main]
-name = "Noticia"
-weight = 7
 
 +++
 Noticia Covid
