@@ -10,6 +10,19 @@
       {{ end }}
     </header><!--.page-header -->
     <div class="portfolio-feed layout-{{ .Params.layout_style }}">
+      <article class="post project">
+        <a href="/história/" class="post-link">
+          
+          <div class="post-thumbnail">
+            <img class="thumbnail" src="https://realebarreiros-t1-04644.netlify.app/images/ESCRITORIO%20REDUZIDA%202.jpg" alt="Nosso Escritório" />
+          </div>
+          
+          <header class="post-header">
+            <h2 class="post-title">Nosso Escritório</h2>
+          </header>
+        </a><!-- .post-link -->
+      </article><!-- .project -->
+
       {{ $display_projects := ((.Site.GetPage "section" "/projects").Pages).ByDate.Reverse }}
       {{ range $post := $display_projects }}
       <article class="post project">
