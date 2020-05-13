@@ -8,10 +8,6 @@ excerpt: O Conselho Federal de Medicina, editou no ano de 2016 a Recomendação 
   médica.
 layout: noticia
 subtitle: ''
-menu:
-  main:
-    name: Teste
-    weight: 7
 
 ---
 O Conselho Federal de Medicina, editou no ano de 2016 a Recomendação de nº.:1, dispondo sobre o processo de obtenção de consentimento livre e esclarecido na assistência médica.
