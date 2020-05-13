@@ -43,13 +43,13 @@ $palette: (
  */
  .acc {
   dl {
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 20px _palette(primary-alt);
     &:after {
       content: "";
       display: block;
       height: 1em;
       width: 100%;
-      background-color: _palette(accent);
+      background-color: _palette(accent-yellow);
     }
   }
   dt > a {
@@ -58,14 +58,14 @@ $palette: (
     padding: 2em;
     display: block;
     text-decoration: none;
-    color: #fff;
+    color: _palette(primary);
     -webkit-transition: background-color 0.5s ease-in-out;
   }
   dd {
     background-color: _palette(primary);
     font-size: 1em;
     line-height: 1.5em;
-    background-image: linear-gradient(to bottom, #444 0%, #fff 100%);
+    background-image: linear-gradient(to bottom, _palette(primary-alt) 0%, _palette(primary) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     > p {
@@ -73,7 +73,7 @@ $palette: (
     }
   }
   position: relative;
-  background-color: #fff;
+  background-color: _palette(primary);
 }
 
 .cont {
@@ -83,8 +83,8 @@ $palette: (
 }
 
 .acc_title {
-  background-color: _palette(accent);
-  border-bottom: 1px solid _palette(accent);
+  background-color: _palette(accent-yellow);
+  border-bottom: 1px solid _palette(accent-yellow);
   &:before {
     content: "+";
     font-size: 1.5em;
@@ -93,12 +93,12 @@ $palette: (
     transition: transform 0.3s ease-in-out;
   }
   &:hover {
-    background-color: #2980b9;
+    background-color: _palette(accent-yellow);
   }
 }
 
 .acc_title_active {
-  background-color: #2980b9;
+  background-color: _palette(accent-yellow);
   &:before {
     transform: rotate(-225deg);
   }
