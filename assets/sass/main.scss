@@ -41,132 +41,125 @@ $palette: (
  * Accordion
  * ----------------------------------------------------------------------------
  */
- .acc {
-  dl {
-    box-shadow: 0 0 20px _palette(primary-alt);
-    &:after {
-      content: "";
-      display: block;
-      height: 1em;
-      width: 100%;
-      background-color: _palette(accent-yellow);
-    }
-  }
-  dt > a {
-    text-align: center;
-    font-weight: 300;
-    padding: 2em;
-    display: block;
-    text-decoration: none;
-    color: _palette(primary);
-    -webkit-transition: background-color 0.5s ease-in-out;
-  }
-  dd {
-    background-color: _palette(primary);
-    font-size: 1em;
-    line-height: 1.5em;
-    background-image: linear-gradient(to bottom, _palette(primary-alt) 0%, _palette(primary) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    > p {
-      padding: 1em 2em 1em 2em;
-    }
-  }
-  position: relative;
-  background-color: _palette(primary);
+ @import url('https://fonts.googleapis.com/css?family=Hind:300,400');
+
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
 }
 
-.cont {
-  max-width: 960px;
+html {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Hind', sans-serif;
+  background: #fff;
+  color: #4d5974;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 100vh;
+}
+
+.container {
   margin: 0 auto;
-  padding:40px 0 0 0;
+  padding: 4rem;
+  width: 48rem;
 }
 
-.acc_title {
-  background-color: _palette(accent-yellow);
-  border-bottom: 1px solid _palette(accent-yellow);
-  &:before {
-    content: "+";
-    font-size: 1.5em;
-    line-height: 0.5em;
-    float: left;
-    transition: transform 0.3s ease-in-out;
-  }
-  &:hover {
-    background-color: _palette(accent-yellow);
-  }
+h3 {
+  font-size: 1.75rem;
+  color: #373d51;
+  padding: 1.3rem;
+  margin: 0;
 }
 
-.acc_title_active {
-  background-color: _palette(accent-yellow);
-  &:before {
-    transform: rotate(-225deg);
-  }
+.accordion a {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  padding: 1rem 3rem 1rem 1rem;
+  color: #7288a2;
+  font-size: 1.15rem;
+  font-weight: 400;
+  border-bottom: 1px solid #e5e5e5;
 }
 
-.acc_panel {
-  height: auto;
-  overflow: hidden;
+.accordion a:hover,
+.accordion a:hover::after {
+  cursor: pointer;
+  color: #03b5d2;
 }
 
-@media all {
-  .acc_panel {
-    max-height: 50em;
-    transition: max-height 1s;
-  }
+.accordion a:hover::after {
+  border: 1px solid #03b5d2;
 }
 
-@media screen and (min-width: 48em) {
-  .acc_panel {
-    max-height: 15em;
-    transition: max-height 0.5s;
-  }
+.accordion a.active {
+  color: #03b5d2;
+  border-bottom: 1px solid #03b5d2;
 }
 
-.acc_panel_col {
+.accordion a::after {
+  font-family: 'Ionicons';
+  content: '\f218';
+  position: absolute;
+  float: right;
+  right: 1rem;
+  font-size: 1rem;
+  color: #7288a2;
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border: 1px solid #7288a2;
+  text-align: center;
+}
+
+.accordion a.active::after {
+  font-family: 'Ionicons';
+  content: '\f209';
+  color: #03b5d2;
+  border: 1px solid #03b5d2;
+}
+
+.accordion .content {
+  opacity: 0;
+  padding: 0 1rem;
   max-height: 0;
+  border-bottom: 1px solid #e5e5e5;
+  overflow: hidden;
+  clear: both;
+  -webkit-transition: all 0.2s ease 0.15s;
+  -o-transition: all 0.2s ease 0.15s;
+  transition: all 0.2s ease 0.15s;
 }
 
-.anim_in {
-  animation-name: acc_in;
-  animation-duration: 0.65s;
-  animation-iteration-count: 1;
-  animation-direction: normal;
-  animation-timing-function: ease-in-out;
-  animation-fill-mode: both;
-  animation-delay: 0s;
+.accordion .content p {
+  font-size: 1rem;
+  font-weight: 300;
 }
 
-.anim_out {
-  animation-name: acc_out;
-  animation-duration: 0.75s;
-  animation-iteration-count: 1;
-  animation-direction: alternate;
-  animation-timing-function: ease-in-out;
-  animation-fill-mode: both;
-  animation-delay: 0s;
-}
-
-
-@keyframes acc_in {
-  0% {
-    opacity: 0;
-    transform: scale(0.8);
-  }
-  100% {
-    opacity: 1;
-    transform: scale(1);
-  }
-}
-
-
-@keyframes acc_out {
-  0% {
-    opacity: 1;
-    transform: scale(1);
-  }
-  100% {
-    opacity: 0;
-    transform: scale(0.8);
-  }
+.accordion .content.active {
+  opacity: 1;
+  padding: 1rem;
+  max-height: 100%;
+  -webkit-transition: all 0.35s ease 0.15s;
+  -o-transition: all 0.35s ease 0.15s;
+  transition: all 0.35s ease 0.15s;
 }
