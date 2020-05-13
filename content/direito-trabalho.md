@@ -7,22 +7,16 @@ title = "Direito Trabalho"
 weight = 8
 
 +++
-**Contencioso**
+### Contencioso
 
-Reclamações individuais.
+* Reclamações individuais.
+* Ações coletivas e ações civis públicas propostas por sindicatos e pelo Ministério Público do Trabalho (MPT).
+* Processos administrativos decorrentes de fiscalização do Ministério Público do Trabalho e Ministério do Trabalho e Emprego.
+* Acompanhamento personalizado em todos Tribunais.
+* Elaboração de relatórios gerenciais com dados processuais e estatísticos para acompanhamento, avaliação e gerenciamento do contencioso trabalhista.
 
-Ações coletivas e ações civis públicas propostas por sindicatos e pelo Ministério Público do Trabalho (MPT).
+### Consultoria
 
-Processos administrativos decorrentes de fiscalização do Ministério Público do Trabalho e Ministério do Trabalho e Emprego.
-
-Acompanhamento personalizado em todos Tribunais.
-
-Elaboração de relatórios gerenciais com dados processuais e estatísticos para acompanhamento, avaliação e gerenciamento do contencioso trabalhista.
-
-**Consultoria**
-
-Elaboração de pareceres em matéria trabalhista.
-
-Assessoria para elaboração de contratos trabalhista, acordos coletivos, políticas internas, dentre outros.
-
-Assessoramento em negociações coletivas.
+* Elaboração de pareceres em matéria trabalhista.
+* Assessoria para elaboração de contratos trabalhista, acordos coletivos, políticas internas, dentre outros.
+* Assessoramento em negociações coletivas.
