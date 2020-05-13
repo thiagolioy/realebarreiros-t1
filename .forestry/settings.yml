@@ -5,9 +5,6 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5eb04644ed1a5000191427e1/webhook/forestry
 sections:
 - type: document
-  path: content/noticias/_index.md
-  label: Notícias
-- type: document
   path: config.yaml
   label: Global Site Config
   templates:
