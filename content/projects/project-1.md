@@ -2,15 +2,36 @@
 title: Nosso Escritório
 subtitle: Optional Project Subtitle
 date: 2019-05-10
-thumb_img_path: "/images/ESCRITORIO- REDUZIDA-1.jpg"
+thumb_img_path: "/images/WhatsApp Image 2020-05-05 at 14.31.10 (1).jpeg"
 content_img_path: ''
 layout: project
 
 ---
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+O escritório Real e Barreiros Advogados iniciou suas atividades no ano de 2015 através da união profissional dos advogados Julianna Real e João Pedro Barreiros.
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+#### Com um compromisso de uma atuação objetiva, ética, moderna e eficaz, prestamos atendimento personalizado e exclusivo para tratar das peculiaridades de cada caso apresentado por nossos clientes.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+#### Efetividade e proatividade, nos garante ganho de eficiência, qualidade e rapidez no trabalho.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+Estamos em constante aperfeiçoamento e evolução técnica em nossa atuação profissional, o que consideramos imprescindível para o cumprimento da nossa missão.
+
+Com a grande importância das redes sociais, buscamos estar presente apresentando conteúdo de cunho educativo e informativo, pois, acreditamos que uma sociedade mais informada é uma sociedade melhor preparada.
+
+O escritório presta assessoria e consultoria jurídica, de forma preventiva e também no campo contencioso, visando minimizar e impedir qualquer prejuízo possível para os clientes.
+
+## **NOSSA MISSÃO**
+
+A missão central do escritório Real e Barreiros Advogados é apresentar soluções jurídicas seguras e inovadoras, objetivando o melhor resultado na defesa dos interesses de nossos clientes.
+
+## **NOSSA VISÃO**
+
+Sermos a primeira escolha dos clientes e nos destacarmos em nossas áreas de atuação.
+
+## **NOSSOS VALORES**
+
+* Integridade e transparência
+* Criatividade e inovação
+* Lealdade
+* Compromisso Ético
+* Respeito e cooperação
+* Disciplina
