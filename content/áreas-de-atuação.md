@@ -8,27 +8,43 @@ name = "Área de Atuação"
 weight = 3
 
 +++
-<div class="acc">
 
-  
- <dl>  
- <dt><a class="acc_title" href="#">Direito do Consumidor</a></dt>  
- <dd class="acc_panel acc_panel_col">  
- <p>Assessoria e consultoria sobre direito do consumidor, incluindo elaboração de estudos e pareceres.  
+<div class="accordion">
+    <div class="accordion-item">
+      <a>Why is the moon sometimes out during the day?</a>
+      <div class="content">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut. Ut tortor pretium viverra suspendisse potenti.</p>
+        
+        <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <a>Direito do Consumidor</a>
+      <div class="content">
+        <p>Assessoria e consultoria sobre direito do consumidor, incluindo elaboração de estudos e pareceres.  
  Condução e defesa em procedimentos administrativos.  
- No campo litigioso, ajuizamento de ações, elaboração de defesas e recursos.  
- </p>  
- </dd>  
- <dt><a href="#" class="acc_title">Direito de Família e Sucessório</a></dt>  
- <dd class="acc_panel acc_panel_col">  
- <p>Condução de processos consensuais ou litigiosos de divórcio e extinção de união estável, mediação e orientação do casal sobre aspectos patrimoniais.  
+ No campo litigioso, ajuizamento de ações, elaboração de defesas e recursos.</p>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <a>Direito de Família e Sucessório</a>
+      <div class="content">
+        <p>Condução de processos consensuais ou litigiosos de divórcio e extinção de união estável, mediação e orientação do casal sobre aspectos patrimoniais.  
  Condução de processos consensuais ou litigiosos de pensão alimentícia, alimentos gravídicos, reconhecimento ou negatória de paternidade, ação de guarda de menor.  
  Elaboração de testamentos, condução de inventários judiciais e extrajudiciais e orientação de herdeiros sobre a partilha.  
- Condução de processos judiciais de interdição</p>  
- </dd>  
- <dt><a href="#" class="acc_title">Direito Médico e da Saúde</a></dt>  
- <dd class="acc_panel acc_panel_col">  
- <p>Médicos e Profissionais da Saúde  
+ Condução de processos judiciais de interdição</p>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <a>Direito Médico e da Saúde</a>
+      <div class="content">
+        <p>Médicos e Profissionais da Saúde  
  Consultoria preventiva na elaboração e revisão de contratos, termos de consentimento, termos de recusa de tratamento, etc.  
  Orientações ético-legais relativas ao exercício da profissão.  
  Atuação em Sindicância e Processo Ético Profissional perante os Conselhos Regionais e Federal.  
@@ -48,16 +64,20 @@ weight = 3
  Consultoria preventiva na elaboração e revisão de contratos, termos de consentimento, termos de recusa de tratamento, etc.  
  Orientações ético-legais relativas ao exercício da profissão.  
  Atuação em Sindicância e Processo Ético Profissional perante os Conselhos Regionais e Federal.  
- Atuação Judicial em casos envolvendo responsabilidade civil.</p>  
- </dd>  
- <dt><a href="#" class="acc_title">Direito Previdenciário</a></dt>  
- <dd class="acc_panel acc_panel_col">  
- <p>Encaminhamento administrativo e judicial para aposentadorias, pensões e benefícios.  
- Análise para correção e restabelecimento de benefícios, pensões e aposentadoria.</p>  
- </dd>  
- <dt><a href="#" class="acc_title">Direito do Trabalho</a></dt>  
- <dd class="acc_panel acc_panel_col">  
- <p>Contencioso  
+ Atuação Judicial em casos envolvendo responsabilidade civil.</p>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <a>Direito Previdenciário</a>
+      <div class="content">
+        <p>Encaminhamento administrativo e judicial para aposentadorias, pensões e benefícios.  
+ Análise para correção e restabelecimento de benefícios, pensões e aposentadoria.</p>
+      </div>
+    </div>
+      <div class="accordion-item">
+      <a>Direito do Trabalho</a>
+      <div class="content">
+        <p>Contencioso  
  Reclamações individuais.  
  Ações coletivas e ações civis públicas propostas por sindicatos e pelo Ministério Público do Trabalho (MPT).  
  Processos administrativos decorrentes de fiscalização do Ministério Público do Trabalho e Ministério do Trabalho e Emprego.  
@@ -66,7 +86,12 @@ weight = 3
  Consultoria  
  Elaboração de pareceres em matéria trabalhista.  
  Assessoria para elaboração de contratos trabalhista, acordos coletivos, políticas internas, dentre outros.  
- Assessoramento em negociações coletivas.</p>  
- </dd> </dl>  
-</div>  
-</div>
+ Assessoramento em negociações coletivas.</p>
+      </div>
+    </div>
+  </div>
+
+
+ 
+ 
+ 

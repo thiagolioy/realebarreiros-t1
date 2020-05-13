@@ -43,17 +43,9 @@ $palette: (
  */
  @import url('https://fonts.googleapis.com/css?family=Hind:300,400');
 
-*, *:before, *:after {
-  -webkit-box-sizing: inherit;
-  box-sizing: inherit;
-}
-
-html {
+.accordion div {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-}
-
-body {
   margin: 0;
   padding: 0;
   font-family: 'Hind', sans-serif;
@@ -66,18 +58,11 @@ body {
   min-height: 100vh;
 }
 
-.container {
-  margin: 0 auto;
-  padding: 4rem;
-  width: 48rem;
+.accordion *, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
 }
 
-h3 {
-  font-size: 1.75rem;
-  color: #373d51;
-  padding: 1.3rem;
-  margin: 0;
-}
 
 .accordion a {
   position: relative;
