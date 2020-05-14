@@ -1,18 +1,14 @@
 ---
 title: Dra. Julianna Real
 subtitle: ''
-date: '2019-04-08'
+date: 2019-04-08
 thumb_img_path: "/images/juju.jpg"
 content_img_path: "/images/juju.jpg"
 layout: project
 
 ---
-Dra. Julianna Real Garcia Pires
+Dra. Julianna Real Garcia Pires é advogada, formada no ano de 2006 em Direito pela Pontifica Universidade Católica de Minas Gerais, PUC/MG.
 
-Advogada inscrita na OAB/MG sob o nº.: 109.402
+Finalizou no ano de 2008 a sua especialização em Direito Público pelo PREATORIUM em Belo Horizonte.
 
-**Formação**
-
-Direito – Pontifica Universidade Católica de Minas Gerais, PUCMG em 2006.
-
-Especializada em Direito Público – PREATORIUM/BH, em 2008.
+Com a família constituída e já mãe de dois lindos filhos, a Dra. Julianna continua com a mesma fome de conhecimento de quando iniciou os seus estudos, sempre se atualizando através de cursos e frequentando palestras e seminários.
