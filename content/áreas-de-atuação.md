@@ -14,14 +14,12 @@ weight = 3
 * Condução e defesa em procedimentos administrativos.
 * No campo litigioso, ajuizamento de ações, elaboração de defesas e recursos.
 
-
 ### Direito de Família e Sucessório
 
 * Condução de processos consensuais ou litigiosos de divórcio e extinção de união estável, mediação e orientação do casal sobre aspectos patrimoniais.
 * Condução de processos consensuais ou litigiosos de pensão alimentícia, alimentos gravídicos, reconhecimento ou negatória de paternidade, ação de guarda de menor.
-Elaboração de testamentos, condução de inventários judiciais e extrajudiciais e orientação de herdeiros sobre a partilha.
-* Condução de processos judiciais de interdição. 
-
+  Elaboração de testamentos, condução de inventários judiciais e extrajudiciais e orientação de herdeiros sobre a partilha.
+* Condução de processos judiciais de interdição.
 
 ### Direito Médico e da Saúde
 
@@ -31,6 +29,12 @@ O Direito Médico é o ramo que estabelece os direitos e deveres dos profissiona
 
 O direito à saúde é previsto em nossa Constituição, devendo ser garantido a todos os cidadãos de forma justa e com qualidade. Profissionais do direito, devem lutar para evitar e abolir qualquer desrespeito e abuso relacionados a este tema. <a href="/direito-médico/" rel="direito-médico/">Saiba Mais.</a>
 
+### Direito Previdenciário
+
+* Encaminhamento administrativo e judicial para aposentadorias, pensões e benefícios.
+
+
+* Análise para correção e restabelecimento de benefícios, pensões e aposentadoria.
 
 ### Direito do Trabalho
 
