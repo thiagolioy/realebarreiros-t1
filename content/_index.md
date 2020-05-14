@@ -6,7 +6,11 @@ sections:
   title: Real e Barreiros Advogados
   section_id: hero
   component: hero_block.html
-  content: Advocacia e Assessoria Jurídica especializada e personalizada.
+  content: "Com a experiência, verificamos que a atuação personalizada e especializada
+    é sinônimo de bons resultados.\n\nAssim é o trabalho desenvolvido por nosso escritório,
+    onde cada cliente é atendido de forma única, por profissionais especializados.
+    \n\nTornando os seus problemas em nossos problemas. E o nosso único objetivo a
+    ser alcançado, é a satisfação de nossos clientes."
 - type: portfolioblock
   template: portfolioblock
   title: Destaques
