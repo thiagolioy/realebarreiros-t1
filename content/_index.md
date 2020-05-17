@@ -76,10 +76,10 @@ sections:
   component: testimonials_block.html
   subtitle: ''
   testimonialslist:
-  - author: John Doe
+  - author: Hélio de Freitas Ilha, Gerente de Trade Marketing Jr. - Nestlé
     avatar: ''
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    content: Dr João foi muito solícito e paciente durante todo o processo. Sempre
+      sanando todas as dúvidas de forma clara e transparente. Agradeço e recomendo!
   - author: Jane Roe
     avatar: images/jane_roe.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
