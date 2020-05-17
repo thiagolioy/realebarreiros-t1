@@ -80,11 +80,11 @@ sections:
     avatar: ''
     content: Dr João foi muito solícito e paciente durante todo o processo. Sempre
       sanando todas as dúvidas de forma clara e transparente. Agradeço e recomendo!
-  - author: Jane Roe
-    avatar: images/jane_roe.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+  - author: Karolina Pelegrini - Médica
+    avatar: ''
+    content: Parabéns pelos serviços prestados ! Sempre empenhados e dedicados, auxiliaram
+      com orientações e esclarecimentos de dúvidas. A ética e responsabilidade servem
+      de exemplo para todos os profissionais. Obrigada pelo seu trabalho !
 - type: contactblock
   template: contactblock
   title: Contato
