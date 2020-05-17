@@ -1,10 +1,10 @@
 +++
-content_img_path = "/images/medico-maos-segurando-um-coracao-de-pelucia_23-2148352018.jpg"
+content_img_path = "/images/seguro-de-saude-e-cuidados-de-saude-medicos-conceito-de-doenca-cardiaca-forma-de-coracao-vermelho-com-estetoscopio-cuidados-de-saude-financeiros_25381-918.jpg"
 date = 2020-05-12T03:00:00Z
 excerpt = ""
 layout = "news_post"
 subtitle = "Ele terá, no entanto, de custear o valor integral do benefício."
-thumb_img_path = "/images/medico-maos-segurando-um-coracao-de-pelucia_23-2148352018.jpg"
+thumb_img_path = "/images/seguro-de-saude-e-cuidados-de-saude-medicos-conceito-de-doenca-cardiaca-forma-de-coracao-vermelho-com-estetoscopio-cuidados-de-saude-financeiros_25381-918.jpg"
 title = "Empregado que aderiu a dispensa incentivada consegue manter plano de saúde"
 
 +++
