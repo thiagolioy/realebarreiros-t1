@@ -10,24 +10,8 @@ layout: news_post
 subtitle: ''
 
 ---
-News Post 1 News Post 1 News Post 1
+Médicos que atuam em unidades de saúde que prestam assistência a casos confirmados e suspeitos de COVID-19 denunciaram ao Conselho Federal de Medicina (CFM) quase 17 mil inconformidades na infraestrutura de trabalho oferecida por gestores (públicos e privados) de todo o País. Entre as principais ‘faltas’ identificadas em 2.166 serviços de saúde, estão a falta de máscaras N95 (ou equivalente), assim como de outros equipamentos de proteção individual (EPIs); a insuficiência ou completa ausência de kits de álcool gel ou 70%, de exames para covid-19; e a carência de equipes de enfermagem (enfermeiros e técnicos). Outro ponto preocupante para os médicos é a dificuldade no acesso a leitos de UTI e de internação.
 
-### Através desta recomendação, o CFM sugere aos médicos que obtenham por escrito, através de um termo, a anuência do paciente acerca do procedimento, tratamento e atuação profissional.
+Os dados fazem parte do primeiro levantamento feito pelo CFM após o lançamento de plataforma online exclusiva aos médicos com inscrição nos Conselhos Regionais de Medicina (CRMs). Desde o lançamento da ferramenta, entre 30 de março e 6 de maio, um total de 1.563 profissionais acessaram a base.
 
-O TCLE – Termo de Consentimento Livre e Esclarecido, não pode ser utilizado como um documento padrão, devendo ser observada a individualidade de cada caso, trazendo detalhes da condição do paciente e a efetiva necessidade de realização do tratamento e/ou procedimento. Ser específico e o mais completo possível é necessário, para definir os parâmetros de atuação do médico.
-
-![](/images/medico-com-tablet-digital_1098-18240.jpg)
-
-> ##### As informações passadas ao paciente devem ser em uma linguagem simples e acessível, que permita o devido esclarecimento e consciente permissão, evitando assim, uma compreensão defeituosa. São necessárias informações particulares específicas do procedimento que será realizado, seus objetivos, riscos, benefícios, sua duração e suas alternativas, entre outras.
-
-O paciente deve ser capaz civilmente e apto para entender e considerar razoavelmente a proposta ou conduta apresenta pelo profissional. E por óbvio, não pode haver qualquer indício de influência, coação ou indução ao paciente para que tome a sua decisão.
-
-Sugere-se ao profissional que apresente o TCLE ao seu paciente e lhe conceda um tempo (dias) para avalia-lo, e inclua no termo, espaços em branco para que o mesmo possa questionar ou apresentar dúvidas.
-
-É por este motivo que os termos genéricos apresentados aos pacientes ou familiares em hospitais momentos antes da internação, são constantemente combatidos e questionados judicialmente.
-
-Vale lembrar também que, o primeiro consentimento (consentimento primário) não exclui a necessidade de consentimentos secundários. Ademais sempre que houver mudanças significativas nas condutas terapêuticas, deve-se obter o consentimento continuado (princípio da temporalidade).
-
-### O TCLE é um documento hábil para o médico se resguardar caso venha sofrer com algum processo judicial ou administrativo, em face de uma alegação de violação à autonomia do paciente ou ainda de que o paciente desconhecia dos riscos, efeitos colaterais, complicações, e outros aspectos inerentes ao procedimento/tratamento.
-
-Para uma atuação médica segura é de suma importância a elaboração do Termo de Consentimento Livre e Esclarecido, que exerce um papel de prevenção, no qual proporciona ao médico a comprovação de que o paciente estava consciente e de acordo com a sua atuação profissional.
+**Principais falhas** – De acordo com o levantamento do CFM, a queixa recorrente – cerca de 38,2% dos casos – está relacionada à falta de equipamentos de proteção individual (EPIs), considerados obrigatórios para o enfrentamento de epidemias. Apesar da recomendação das autoridades sanitárias, como o Ministério da Saúde e a Organização Mundial da Saúde (OMS), pelo menos 1.585 formulários denunciaram falta de máscara N95 ou equipamento equivalente. Também foi notificada falha na oferta de aventais (1.417 relatos), óculos ou protetor facial (1.215), máscara cirúrgica (1.038), gorro (697) e luvas (496).
