@@ -78,8 +78,8 @@ sections:
   testimonialslist:
   - author: Hélio de Freitas Ilha, Gerente de Trade Marketing Jr. - Nestlé
     avatar: ''
-    content: Dr João foi muito solícito e paciente durante todo o processo. Sempre
-      sanando todas as dúvidas de forma clara e transparente. Agradeço e recomendo!
+    content: Foram muito solícitos e pacientes durante todo o processo. Sempre sanando
+      todas as dúvidas de forma clara e transparente. Agradeço e recomendo!
   - author: Karolina Pelegrini - Médica
     avatar: ''
     content: Parabéns pelos serviços prestados ! Sempre empenhados e dedicados, auxiliaram
