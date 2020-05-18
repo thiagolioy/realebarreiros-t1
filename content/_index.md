@@ -27,11 +27,6 @@ sections:
   component: services_block.html
   subtitle: ''
   serviceslist:
-  - title: Direito do Trabalho
-    content: |-
-      O Direito do Trabalho é o ramo do direito que tem por objeto regulamentar normas e princípios para gerir as relações empregatícias e as relações de trabalho especificadas.
-
-      Seu maior objetivo é garantir ao trabalhador direitos básicos, melhores condições de trabalho, inclusive sociais, através de medidas de proteção que proporcionam melhor equilíbrio com a classe patronal (empregador).
   - title: Direito Médico e da Saúde
     content: |-
       O Direito Médico é o ramo que estabelece os direitos e deveres dos profissionais e instituições de saúde, bem como, de pacientes que utilizam os serviços de saúde.
@@ -39,6 +34,11 @@ sections:
       Ética e responsabilidade são temas disciplinados por este ramo.
 
       O direito à saúde é previsto em nossa Constituição, devendo ser garantido a todos os cidadãos de forma justa e com qualidade. Profissionais do direito, devem lutar para evitar e abolir qualquer desrespeito e abuso relacionados a este tema.
+  - title: Direito do Trabalho
+    content: |-
+      O Direito do Trabalho é o ramo do direito que tem por objeto regulamentar normas e princípios para gerir as relações empregatícias e as relações de trabalho especificadas.
+
+      Seu maior objetivo é garantir ao trabalhador direitos básicos, melhores condições de trabalho, inclusive sociais, através de medidas de proteção que proporcionam melhor equilíbrio com a classe patronal (empregador).
   - title: Direito de Família e Sucessório
     content: "O Direito de Família é o ramo do direito que visa regulamentar as questões
       entre entes da comunidade familiar, como regime de casamento, união estável,
