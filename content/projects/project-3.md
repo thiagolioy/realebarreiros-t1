@@ -2,8 +2,8 @@
 title: Dra. Julianna Real
 subtitle: ''
 date: 2019-04-08
-thumb_img_path: "/images/juju.jpg"
-content_img_path: "/images/juju.jpg"
+thumb_img_path: "/images/9fbbb698-f7d4-406a-b923-a8a4d36e90e8.jpeg"
+content_img_path: "/images/03447f15-1045-47fe-a32a-959f4b39445d.jpeg"
 layout: project
 
 ---
