@@ -61,3 +61,17 @@ Essa prática é considerada ilegal, abusiva e constitui crime contra as relaç�
 Apresentamos apenas alguns direitos existentes em nosso Código e esperamos ter esclarecido algumas dúvidas possíveis.
 
 Esperamos que nossos leitores possam utilizar tais informações a seu favor, portanto, ao se deparar com situações similares as apresentadas, não perca tempo, procure seu advogado, e lute por seu direito.
+
+***
+
+![](/images/hcjn4062-cortada.jpg)
+
+###### Dr. João Pedro Barreiros
+
+###### Advogado formado na Faculdade São Lourenço
+
+###### Especialista em Direito Médico e Hospitalar pela Escola Paulista de Direito.
+
+###### Especialista em Direito do Trabalho pela Faculdade Damásio.
+
+###### 
