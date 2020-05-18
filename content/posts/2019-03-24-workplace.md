@@ -64,7 +64,7 @@ Esperamos que nossos leitores possam utilizar tais informações a seu favor, po
 
 ***
 
-![](/images/hcjn4062-cortada.jpg)
+![](/images/hcjn4062-cortada-22.jpg)
 
 ###### Dr. João Pedro Barreiros
 
