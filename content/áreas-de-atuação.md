@@ -1,5 +1,5 @@
 +++
-img_path = "/images/0f0ba737-5349-48a7-a1aa-294f6090a42c.jpeg"
+img_path = "/images/678fb19b-a9d7-4eab-9863-3062e977909f.jpeg"
 layout = "page"
 subtitle = "Nosso escritório é especializado nas seguintes disciplinas do direito."
 title = "Áreas de atuação"
