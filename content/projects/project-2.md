@@ -1,9 +1,9 @@
 ---
 title: Dr. João Pedro Barreiros
 subtitle: ''
-date: '2019-04-30'
-thumb_img_path: "/images/PXNA5305.JPG"
-content_img_path: "/images/PXNA5305.JPG"
+date: 2019-04-30
+thumb_img_path: "/images/56c1eb5a-975c-4c01-ab30-d3ee08529a66.jpeg"
+content_img_path: "/images/56c1eb5a-975c-4c01-ab30-d3ee08529a66.jpeg"
 layout: project
 
 ---
