@@ -46,4 +46,4 @@ Para registrar uma denúncia, o médico deve preencher alguns dados básicos de 
 
 O levantamento do CFM avaliou ainda o perfil dos 1.563 médicos que apresentaram seus relatos na plataforma de denúncia. É possível verificar, por exemplo, que muitos são profissionais experientes, com tempo médio de 11 anos de graduação, sendo que mais de 60% possuem título de especialista. Na distribuição por idade, 69% dos denunciantes têm até 39 anos, 29% entre 40 e 69 anos e o restante mais de 70 anos. Outra constatação: 56% dos médicos que apresentaram queixa eram do sexo feminino e 44% masculino.
 
-Fonte: Site oficial do CFM - [http://portal.cfm.org.br/index.php?option=com_content&view=article&id=28695:2020-05-15-11-57-06&catid=3](http://portal.cfm.org.br/index.php?option=com_content&view=article&id=28695:2020-05-15-11-57-06&catid=3 "http://portal.cfm.org.br/index.php?option=com_content&view=article&id=28695:2020-05-15-11-57-06&catid=3")
+Fonte: [Site oficial do CFM.](http://portal.cfm.org.br/index.php?option=com_content&view=article&id=28695:2020-05-15-11-57-06&catid=3)
