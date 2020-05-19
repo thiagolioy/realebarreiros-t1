@@ -30,7 +30,7 @@
         {{ $post_len := len $recent_projects }}
         {{ range $post_idx, $post := $recent_projects }}
         <article class="post project">
-          {{ if eq $post_idx (sub $post_len 1) }}
+          <!-- {{ if eq $post_idx (sub $post_len 1) }}
           <a href="{{ $.section.view_all_url }}" class="post-link">
             {{ if $post.Params.thumb_img_path }}
             <div class="post-thumbnail">
@@ -39,7 +39,7 @@
             {{ end }}
             <span class="view-all">{{ $.section.view_all_text | default "View All" }}</span>
           </a>
-          {{ else }}
+          {{ else }} -->
           <a href="{{ $post.URL }}" class="post-link">
             {{ if $post.Params.thumb_img_path }}
             <div class="post-thumbnail">
@@ -50,9 +50,12 @@
               <h3 class="post-title">{{ $post.Params.title }}</h3>
             </header>
           </a><!-- .post-link -->
-          {{ end }}
+          <!-- {{ end }} -->
         </article><!-- .post -->
         {{ end }}
+
+
+
       </div><!-- .portfolio-feed -->
     </div><!-- .block-content -->
   </div><!-- .inner -->
