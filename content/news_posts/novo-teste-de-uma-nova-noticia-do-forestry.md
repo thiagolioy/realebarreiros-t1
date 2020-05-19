@@ -18,13 +18,13 @@ Em sua defesa, a Cepisa argumentou que o então empregado tinha aceitado esponta
 
 #### Coparticipação
 
-O juízo da 2ª Vara do Trabalho de Teresina (PI) julgou improcedente o pedido de restabelecimento do benefício. A justificativa foi que o plano funciona em regime de coparticipação, com desconto do valor devido pelo empregado na folha de pagamento. Como ele havia passado a receber o provento da aposentadoria pela Previdência Social, o juiz entendeu que o desconto não seria mais possível.  
-   
+O juízo da 2ª Vara do Trabalho de Teresina (PI) julgou improcedente o pedido de restabelecimento do benefício. A justificativa foi que o plano funciona em regime de coparticipação, com desconto do valor devido pelo empregado na folha de pagamento. Como ele havia passado a receber o provento da aposentadoria pela Previdência Social, o juiz entendeu que o desconto não seria mais possível.
+
 O Tribunal Regional do Trabalho da 22ª Região (PI), ao julgar o recurso ordinário, acolheu em parte o pedido do empregado, mas decidiu que só lhe seria assegurado o plano se ele arcasse integralmente com os custos.
 
 #### Critérios
 
-O relator do recurso de revista da Cepisa, ministro Caputo Bastos, observou que o TRT decidiu conforme a jurisprudência do TST e a lei. 
+O relator do recurso de revista da Cepisa, ministro Caputo Bastos, observou que o TRT decidiu conforme a jurisprudência do TST e a lei.
 
 > De acordo com os artigos 30 e 31 da [Lei 9.656/1998](http://www.planalto.gov.br/ccivil_03/leis/l9656.htm), que trata dos planos e seguros privados de saúde, o empregado pode manter o benefício nas mesmas condições da época da vigência do contrato de trabalho, no caso de rescisão sem justa causa, desde que assuma o pagamento integral e tenha contribuído para o plano por, no mínimo, dez anos. De acordo com o relator, o TST também entende que, para a permanência na condição de beneficiário do plano de saúde, é irrelevante que o empregado tenha aderido ao PDI.
 
@@ -34,4 +34,4 @@ Processo: [RR-2508-51.2015.5.22.0002](http://aplicacao4.tst.jus.br/consultaProce
 
 O TST possui oito Turmas, cada uma composta de três ministros, com a atribuição de analisar recursos de revista, agravos, agravos de instrumento, agravos regimentais e recursos ordinários em ação cautelar. Das decisões das Turmas, a parte ainda pode, em alguns casos, recorrer à Subseção I Especializada em Dissídios Individuais (SBDI-1).
 
-Fonte: Site oficial do TST.
+Fonte: [Site oficial do TST.](http://www.tst.jus.br/web/guest/-/empregado-que-aderiu-a-dispensa-incentivada-consegue-manter-plano-de-sa%C3%BAde)
