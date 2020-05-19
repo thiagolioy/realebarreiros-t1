@@ -33,7 +33,6 @@ fields:
   config:
     required: true
 pages:
-- content/projects/conheca-nossos-diferenciais.md
 - content/projects/project-2.md
 - content/projects/project-2.md
 - content/projects/project-3.md
