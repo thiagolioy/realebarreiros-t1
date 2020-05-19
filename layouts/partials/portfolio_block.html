@@ -38,10 +38,7 @@
             </div>
             {{ end }}
             <!-- Remove later if want to see view all -->
-            <header class="post-header">
-              <h3 class="post-title">{{ $post.Params.title }}</h3>
-            </header>
-            <!-- <span class="view-all">{{ $.section.view_all_text | default "View All" }}</span> -->
+            <span class="view-all">{{ $.section.view_all_text | default "View All" }}</span>
           </a>
           {{ else }}
           <a href="{{ $post.URL }}" class="post-link">
