@@ -1,5 +1,5 @@
 +++
-img_path = "/images/1b28492b-04a9-4294-93af-7b7fcb0a53b6.jpeg"
+img_path = "/images/35ac5931-9385-472f-afe8-d5d0accae805.jpeg"
 layout = "page"
 subtitle = ""
 title = "Escritório"
