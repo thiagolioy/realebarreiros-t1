@@ -6,10 +6,10 @@ sections:
   title: Real e Barreiros Advogados
   section_id: hero
   component: hero_block.html
-  content: |-
-    Com a experiência, verificamos que a atuação personalizada e especializada é sinônimo de bons resultados. Assim é o trabalho desenvolvido por nosso escritório, onde cada cliente é atendido de forma única, por profissionais especializados.
-
-    Tornamos os seus problemas em nossos problemas. E o nosso maior objetivo, é a satisfação de nossos clientes.
+  content: "A experiência nos mostrou que uma atuação especializada é sinônimo de
+    bons resultados. \n\nO trabalho em nosso escritório é desenvolvido por profissionais
+    capacitados, que encaram os problemas de cada clientes como se fossem nossos problemas.\n\nAssim,
+    nosso maior objetivo, é garantir a satisfação de nossos clientes."
 - type: portfolioblock
   template: portfolioblock
   title: Destaques
