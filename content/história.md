@@ -13,7 +13,7 @@ O escritório Real e Barreiros Advogados iniciou suas atividades no ano de 2015 
 
 Estamos em constante aperfeiçoamento e evolução técnica em nossa atuação profissional, o que consideramos imprescindível para o cumprimento da nossa missão.
 
-> Efetividade e proatividade, nos garante ganho de eficiência, qualidade e rapidez no trabalho.
+> Efetividade e proatividade, nos garante ganho de eficiência e qualidade no trabalho.
 
 Com a grande importância das redes sociais, buscamos estar presente gerando conteúdo de cunho educativo e informativo, pois, acreditamos que uma sociedade mais informada é uma sociedade melhor preparada.
 
