@@ -40,7 +40,11 @@ sections:
     content: |-
       O Direito do Trabalho é o ramo do direito que tem por objeto regulamentar normas e princípios para gerir as relações empregatícias e as relações de trabalho especificadas.
 
-      Seu maior objetivo é garantir ao trabalhador direitos básicos, melhores condições de trabalho, inclusive sociais, através de medidas de proteção que proporcionam melhor equilíbrio com a classe patronal (empregador).
+      Muitas reclamações trabalhistas podem ser evitadas, caso sua empresa possua um profissional especialista atuando de forma preventiva e consultiva.
+
+      É preciso garantir os direitos dos empregados, mas será que sua empresa está cumprindo com as exigências e se resguardando da forma correta?
+
+      O ideal é impedir qualquer discussão judicial, mas se não pudermos, é melhor estarmos preparados e assessorados para nos livrar
   - title: Direito de Família e Sucessório
     content: "O Direito de Família é o ramo do direito que visa regulamentar as questões
       entre entes da comunidade familiar, como regime de casamento, união estável,
