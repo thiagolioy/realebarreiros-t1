@@ -8,7 +8,9 @@ menu:
     weight: 6
 
 ---
-Olá! Gostaríamos de agradecer o interesse em nosso escritório. Caso tenha enderece em entrar em contato, preencha o formulário abaixo ou utilize nossos canais de comunicação.
+Gostaríamos de agradecer o interesse em nosso escritório. 
+
+Caso deseje entrar em contato conosco, preencha o formulário abaixo ou utilize nossos canais de comunicação.
 
 Dra. Julianna Real: (35)99844-7823 / juliannareal@realebarreiros.com
 
