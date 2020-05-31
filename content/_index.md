@@ -12,16 +12,6 @@ sections:
     Profissionais capacitados que encaram com ética, respeito e empatia as individualidades de cada cliente.
 
     Nossa missão é entregar bons resultados com transparência e excelência nos atendimentos.
-- type: portfolioblock
-  template: portfolioblock
-  title: Destaques
-  section_id: latest-projects
-  component: portfolio_block.html
-  subtitle: ''
-  layout_style: mosaic
-  num_projects_displayed: 3
-  view_all_text: Veja mais
-  view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
   title: Áreas de atuação
@@ -46,15 +36,24 @@ sections:
 
       O ideal é impedir qualquer discussão judicial, mas se não pudermos, é melhor estarmos preparados e assessorados para nos livrar
   - title: Direito de Família e Sucessório
-    content: "O Direito de Família é o ramo do direito que visa regulamentar as questões
+    content: 'O Direito de Família é o ramo do direito que visa regulamentar as questões
       entre entes da comunidade familiar, como regime de casamento, união estável,
-      paternidade, alimentos etc. \n\nO Direito Sucessório trata das questões relacionadas
-      ao evento morte, afim de regulamentar a transferência de patrimônio do falecido. "
+      paternidade, alimentos etc. Já o Direito Sucessório '
   - title: Direito do Consumidor
     content: |-
       O Direito do Consumidor é o ramo do direito responsável por regulamentar as relações entre fornecedores de bens e serviços e seus consumidores.
 
       O Código de Defesa do Consumidor foi criado para equilibrar as relações de consumo, visando garantir a saúde, segurança, informação e orientação aos consumidores para evitar que estes sejam violados e prejudicados.
+- type: portfolioblock
+  template: portfolioblock
+  title: Destaques
+  section_id: latest-projects
+  component: portfolio_block.html
+  subtitle: ''
+  layout_style: mosaic
+  num_projects_displayed: 3
+  view_all_text: Veja mais
+  view_all_url: portfolio/index.html
 - type: postsblock
   template: postsblock
   title: Últimos artigos
