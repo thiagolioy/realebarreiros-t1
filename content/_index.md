@@ -7,9 +7,7 @@ sections:
   section_id: hero
   component: hero_block.html
   content: |-
-    A experiência nos mostrou que uma atuação especializada é sinônimo de bons resultados.
-
-    Profissionais capacitados que encaram com ética, respeito e empatia as individualidades de cada cliente.
+    A experiência nos mostrou que uma atuação especializada é sinônimo de bons resultados. Profissionais capacitados que encaram com ética, respeito e empatia as individualidades de cada cliente.
 
     Nossa missão é entregar bons resultados com transparência e excelência nos atendimentos.
 - type: servicesblock
