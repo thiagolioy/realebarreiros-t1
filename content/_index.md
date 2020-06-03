@@ -24,13 +24,11 @@ sections:
       A falta ou a inexatidão de informações também são as principais causas de processos contra médicos, é preciso saber como respeitar a autonomia dos pacientes através do esclarecimento.
   - title: Direito do Trabalho
     content: |-
-      O Direito do Trabalho é o ramo do direito que tem por objeto regulamentar normas e princípios para gerir as relações empregatícias e as relações de trabalho especificadas.
-
-      Muitas reclamações trabalhistas podem ser evitadas, caso sua empresa possua um profissional especialista atuando de forma preventiva e consultiva.
+      Muitas reclamações trabalhistas podem ser evitadas, com um acompanhamento preventivo e consultivo de um profissional especializado.
 
       É preciso garantir os direitos dos empregados, mas será que sua empresa está cumprindo com as exigências e se resguardando da forma correta?
 
-      O ideal é impedir qualquer discussão judicial, mas se não pudermos, é melhor estarmos preparados e assessorados para nos livrar.
+      O ideal é impedir qualquer discussão judicial, mas se não pudermos, é melhor estarmos preparados e bem assessorados para nos livrar de condenações indevidas ou acordos meu feitos.
   - title: Direito de Família e Sucessório
     content: |-
       O Direito de Família é o ramo do direito que visa regulamentar as questões entre entes da comunidade familiar, como regime de casamento, união estável, paternidade, alimentos etc. Já o Direito sucessório cuida das questões relacionadas ao evento morte, regulamentando a transferência de patrimônio do falecido.
