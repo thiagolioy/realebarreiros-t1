@@ -39,16 +39,13 @@ $palette: (
 .author-box {
   display: flex;
   justify-content: space-between;
-  
-  background: lighten(#272c30, 5%);
+  background: lighten(#040401, 5%);
   padding: 15px;
-  color: _palette(secondary);
-
+  color: white;
   
   .name {
-    color: _palette(secondary);
+    color: white;
     font-size: inherit;
-    font-weight: bold;
     margin: 0;
     text-align: center;
   }
@@ -57,9 +54,19 @@ $palette: (
     padding-left: 10px;
   }
   
+  .info {
+    width: 120px;
+    flex-shrink: 0;
+  }
+  
   img {
     border-radius: 50%;
-    height: 80px;
-    width: 80px;
+    height: 120px;
+    width: 120px;
+
   }
 }
+
+
+
+
