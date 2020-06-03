@@ -34,3 +34,32 @@ $palette: (
 @import "imports/footer";
 @import "imports/palettes";
 @import "imports/banner";
+
+
+.author-box {
+  display: flex;
+  justify-content: space-between;
+  
+  background: lighten(#272c30, 5%);
+  padding: 15px;
+  color: _palette(secondary);
+
+  
+  .name {
+    color: _palette(secondary);
+    font-size: inherit;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .about {
+    padding-left: 10px;
+  }
+  
+  img {
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+  }
+}
