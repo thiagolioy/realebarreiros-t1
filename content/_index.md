@@ -40,7 +40,7 @@ sections:
 
       O resultado foi diferente do prometido? As informações foram prestadas de forma adequada? Você sofreu algum prejuízo em decorrência dessas falhas?
 
-      Procure se informar com um profissional de sua confiança e faça valer os seus direitos.
+      Procure se informar com um profissional de sua confiança e não aceite nada menos do que os seus direitos.
 - type: portfolioblock
   template: portfolioblock
   title: Destaques
