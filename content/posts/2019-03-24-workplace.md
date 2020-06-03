@@ -63,17 +63,3 @@ Apresentamos apenas alguns direitos existentes em nosso Código e esperamos ter 
 Esperamos que nossos leitores possam utilizar tais informações a seu favor, portanto, ao se deparar com situações similares as apresentadas, não perca tempo, procure seu advogado, e lute por seu direito.
 
 ***
-
-<div class="author-box">
-<div class="info">
-<img src="https://realebarreiros-t1-04644.netlify.app/images/hcjn4062-cortada-22.jpg" class="profile" />
-<h2 class="name">Dr. João Pedro</h2>
-</div>
-
-<div class="about">
-<p class="bio">
-Dr. João Pedro Barreiros é Advogado formado na Faculdade São Lourenço, Especialista em Direito Médico e
-Hospitalar pela Escola Paulista de Direito. Possui também Especialidade em Direito do Trabalho pela Faculdade Damásio.
-</p>  
-</div>
-</div>
