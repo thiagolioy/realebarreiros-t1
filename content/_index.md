@@ -31,9 +31,9 @@ sections:
       O ideal é impedir qualquer discussão judicial, mas se não pudermos, é melhor estarmos preparados e bem assessorados para nos livrar de condenações indevidas ou acordos meu feitos.
   - title: Direito de Família e Sucessório
     content: |-
-      O Direito de Família é o ramo do direito que visa regulamentar as questões entre entes da comunidade familiar, como regime de casamento, união estável, paternidade, alimentos etc. Já o Direito sucessório cuida das questões relacionadas ao evento morte, regulamentando a transferência de patrimônio do falecido.
+      Discussões familiares podem ser resolvidas de forma amigável reduzindo os impactos negativos nos envolvidos
 
-      Toda questão familiar pode ser resolvida de forma amigável, mas quando o divórcio, a pensão alimentícia e até questões relacionadas a herança são levadas para uma discussão judicial, é melhor que você esteja amparado por um profissional especialista no assunto.
+      Mas quando o divórcio, a pensão alimentícia e até questões relacionadas a herança são levadas para o judiciário, é melhor estar amparado por um profissional especialista no assunto que proporcione uma condução justa e benéfica no processo.
   - title: Direito do Consumidor
     content: |-
       O Direito do Consumidor é o ramo do direito responsável por regulamentar as relações entre fornecedores de bens e serviços e seus consumidores
