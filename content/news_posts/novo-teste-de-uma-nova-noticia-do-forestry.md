@@ -1,7 +1,7 @@
 +++
 content_img_path = "/images/seguro-de-saude-e-cuidados-de-saude-medicos-conceito-de-doenca-cardiaca-forma-de-coracao-vermelho-com-estetoscopio-cuidados-de-saude-financeiros_25381-918.jpg"
 date = 2020-05-12T03:00:00Z
-excerpt = ""
+excerpt = "De acordo com os ministros do TST, adesão a PDI não impede a continuidade do benefício, desde que o empregado já tenha participado dele por dez anos e assuma integralmente o seu custeio."
 layout = "news_post"
 subtitle = "Ele terá, no entanto, de custear o valor integral do benefício."
 thumb_img_path = "/images/seguro-de-saude-e-cuidados-de-saude-medicos-conceito-de-doenca-cardiaca-forma-de-coracao-vermelho-com-estetoscopio-cuidados-de-saude-financeiros_25381-918.jpg"
