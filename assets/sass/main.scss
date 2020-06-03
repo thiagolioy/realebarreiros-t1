@@ -42,8 +42,8 @@ $palette: (
   padding: 15px;
   
   .name {
-    color: _palette(secondary);
-    font-size: 0.9em;
+    color: white;
+    font-size: 0.8em;
     font-weight: bold;
     margin: 0;
     text-align: center;
@@ -51,7 +51,7 @@ $palette: (
   
   .about {
     padding-left: 10px;
-    color: _palette(secondary);
+    color: white;
   }
   
   .info {
