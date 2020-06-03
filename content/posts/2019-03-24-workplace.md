@@ -64,14 +64,16 @@ Esperamos que nossos leitores possam utilizar tais informações a seu favor, po
 
 ***
 
-![](/images/hcjn4062-cortada-22.jpg)
+<div class="author-box">
+<div class="info">
+<img src="https://realebarreiros-t1-04644.netlify.app/images/hcjn4062-cortada-22.jpg" class="profile" />
+<h2 class="name">Dr. João Pedro</h2>
+</div>
 
-###### Dr. João Pedro Barreiros
-
-###### Advogado formado na Faculdade São Lourenço
-
-###### Especialista em Direito Médico e Hospitalar pela Escola Paulista de Direito.
-
-###### Especialista em Direito do Trabalho pela Faculdade Damásio.
-
-###### 
+<div class="about">
+<p class="bio">
+Dr. João Pedro Barreiros é Advogado formado na Faculdade São Lourenço, Especialista em Direito Médico e
+Hospitalar pela Escola Paulista de Direito. Possui também Especialidade em Direito do Trabalho pela Faculdade Damásio.
+</p>  
+</div>
+</div>
