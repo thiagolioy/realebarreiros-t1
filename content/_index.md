@@ -19,10 +19,6 @@ sections:
   serviceslist:
   - title: Direito Médico e da Saúde
     content: |-
-      O Direito Médico é o ramo que estabelece os direitos e deveres dos profissionais e instituições de saúde, bem como, de pacientes que utilizam os serviços de saúde.
-
-      Devemos lutar para evitar e abolir qualquer desrespeito e abuso relacionados a este tema.
-
       Ser acusado sobre erro médico é algo grave, mas nem todo dano sofrido pelo paciente é de responsabilidade médica, prefira investir em profissionais especialistas e capacitados ao invés de perder dinheiro com indenizações indevidas.
 
       A falta ou a inexatidão de informações também são as principais causas de processos contra médicos, é preciso saber como respeitar a autonomia dos pacientes através do esclarecimento.
