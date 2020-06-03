@@ -31,3 +31,15 @@ Vale lembrar também que, o primeiro consentimento (consentimento primário) nã
 ### O TCLE é um documento hábil para o médico se resguardar caso venha sofrer com algum processo judicial ou administrativo, em face de uma alegação de violação à autonomia do paciente ou ainda de que o paciente desconhecia dos riscos, efeitos colaterais, complicações, e outros aspectos inerentes ao procedimento/tratamento.
 
 Para uma atuação médica segura é de suma importância a elaboração do Termo de Consentimento Livre e Esclarecido, que exerce um papel de prevenção, no qual proporciona ao médico a comprovação de que o paciente estava consciente e de acordo com a sua atuação profissional.
+
+***
+
+<div class="author-box">
+<div class="info">
+<img src="https://realebarreiros-t1-04644.netlify.app/images/e2b23012-9316-4e03-9cb2-0bc3db2a5e26.jpeg" class="profile" />
+<h2 class="name">Dr. João Pedro</h2>
+</div>
+
+<div class="about"> <p class="bio"> Dr. João Pedro Barreiros é advogado formado na Faculdade São Lourenço, especialista em Direito Médico e Hospitalar pela Escola Paulista de Direito e também especialista em Direito do Trabalho pela Faculdade Damásio. </p>  
+</div>
+</div>
