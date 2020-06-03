@@ -61,3 +61,15 @@ Muito importante que este acordo seja encaminhado para o sindicato profissional,
 ![](/images/equipe-de-acordo-amigo-de-colarinho-branco_1262-2253.jpg)
 
 Evitem problemas futuros, caso possuam dúvidas de como proceder durante este período, busquem ajuda de um profissional capacitado.
+
+***
+
+<div class="author-box">
+<div class="info">
+<img src="https://realebarreiros-t1-04644.netlify.app/images/e2b23012-9316-4e03-9cb2-0bc3db2a5e26.jpeg" class="profile" />
+<h2 class="name">Dr. João Pedro</h2>
+</div>
+
+<div class="about"> <p class="bio"> Dr. João Pedro Barreiros é advogado formado na Faculdade São Lourenço, especialista em Direito Médico e Hospitalar pela Escola Paulista de Direito e também especialista em Direito do Trabalho pela Faculdade Damásio. </p>  
+</div>
+</div>
