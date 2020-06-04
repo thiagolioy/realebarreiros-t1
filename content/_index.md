@@ -29,7 +29,7 @@ sections:
       O ideal é impedir qualquer discussão judicial, mas se não pudermos, é melhor estarmos preparados e bem assessorados para nos livrar de condenações indevidas ou acordos meu feitos.
   - title: Direito de Família e Sucessório
     content: |-
-      Discussões familiares podem ser resolvidas de forma amigável reduzindo os impactos negativos nos envolvidos
+      Discussões familiares podem ser resolvidas de forma amigável reduzindo os impactos negativos nos envolvidos.
 
       Mas quando o divórcio, a pensão alimentícia e até questões relacionadas a herança são levadas para o judiciário, é melhor estar amparado por um profissional especialista no assunto que proporcione uma condução justa e benéfica no processo.
   - title: Direito do Consumidor
