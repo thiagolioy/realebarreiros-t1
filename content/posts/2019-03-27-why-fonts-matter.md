@@ -42,7 +42,7 @@ O Governo Federal garantirá a devolução do percentual reduzido pelo empregado
 
 > Talvez permitir esta negociação de forma individual, para esta faixa de empregados, que recebam até 3 salários mínimos, seja um bom caminho. Afinal diante de uma possível demissão ou de um possível fechamento de portas da empresa, a redução de aproximadamente até 30% (trinta por cento) do salário seja uma medida excepcional razoavelmente aceitável para enfrentamento desta crise.
 
-Empresas que estão 100% paralisadas, poderão acordar com seus empregados a suspensão do contrato de trabalho, dessa forma o empregador ficará somente obrigado a efetuar o pagamento dos benefícios que oferece em sua empresa (plano de saúde, vale alimentação, etc.).
+Empresas que estão 100% (cem por cento) paralisadas, poderão acordar com seus empregados a suspensão do contrato de trabalho, dessa forma o empregador ficará somente obrigado a efetuar o pagamento dos benefícios que oferece em sua empresa (plano de saúde, vale alimentação, etc.).
 
 ### Importante destacar também que tais medidas ao serem adotadas, criam ao empregado uma Garantia Provisória ao Emprego, que existirá pelo dobro do prazo estabelecido para a redução da jornada ou suspensão do contrato de trabalho.
 
