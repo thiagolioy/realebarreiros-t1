@@ -27,7 +27,7 @@ O início dessa licença poderá ocorrer a partir do 28º dia antes do parto ou 
 
 Durante esse período, fica caracterizado uma hipótese de INTERRUPÇÃO do contrato de trabalho.
 
-#### Isso quer dizer que os direitos e obrigações inerentes ao contrato de trabalho, continuam a surtir efeito. 
+#### Isso quer dizer que os direitos e obrigações inerentes ao contrato de trabalho, continuam a surtir efeito.
 
 Diferentemente do que ocorre na suspensão contratual.
 
@@ -38,7 +38,7 @@ Então, mesmo que não haja a prestação de serviços pela empregada gestante o
 * Recolhimento de INSS;
 * Contabilizar o período como tempo de serviço, para contagem de férias por exemplo.
 
-Já na suspensão contratual, tais direitos e obrigações são "congelados". 
+Já na suspensão contratual, tais direitos e obrigações são "congelados".
 
 O empregado não prestará serviços para a empresa, e esta, por sua vez:
 
@@ -52,10 +52,22 @@ Afinal, tal medida traria prejuízos à empregada gestante/mãe, o que contraria
 
 #### Portanto, é possível suspender o contrato da emprega gestante, contudo, aconselhamos a realizar o acordo previsto na MP 936 em período distante ao inicio da licença maternidade, para que não haja conflito nos institutos.
 
-Encerrando nosso estudo, é necessário se faz lembrar, outro direito importantíssimo criado para a proteção da mulher - a Estabilidade da Empregada Gestante. 
+Encerrando nosso estudo, é necessário se faz lembrar, outro direito importantíssimo criado para a proteção da mulher - a Estabilidade da Empregada Gestante.
 
 Conforme previsto no artigo 10, inciso II, alínea "b" do Ato das Disposições Constitucionais Transitórias da Constituição Federal/88, é garantido a empregada gestante, a partir da confirmação de sua gravidez até cinco meses após o parto, a proteção ao emprego contra a dispensa de forma arbitrária e sem justa causa.
 
 Quer dizer, que toda empregada grávida, não poderá ser demitida imotivadamente até o quinto mês de vida de seu bebê.
 
 Caso você sofra este tipo de ilegalidade, procure um profissional especializado para auxiliá-la na busca de seus direitos.
+
+***
+
+<div class="author-box">
+<div class="info">
+<img src="https://realebarreiros-t1-04644.netlify.app/images/e2b23012-9316-4e03-9cb2-0bc3db2a5e26.jpeg" class="profile" />
+<h2 class="name">Dr. João Pedro</h2>
+</div>
+
+<div class="about"> <p class="bio"> Dr. João Pedro Barreiros é advogado formado na Faculdade São Lourenço, especialista em Direito Médico e Hospitalar pela Escola Paulista de Direito e também especialista em Direito do Trabalho pela Faculdade Damásio. </p>  
+</div>
+</div>
