@@ -34,7 +34,7 @@ sections:
       Mas quando o divórcio, a pensão alimentícia e até questões relacionadas a herança são levadas para o judiciário, é melhor estar amparado por um profissional especialista no assunto que proporcione uma condução justa e benéfica no processo.
   - title: Direito do Consumidor
     content: |-
-      Você foi vítima ou sabe de alguém que sofreu alguma prática ilegal ou abusiva durante o consumo de algum serviço ou produto?O resultado foi diferente do prometido? As informações foram prestadas de forma adequada? Você sofreu algum prejuízo em decorrência dessas falhas?
+      Você foi vítima ou sabe de alguém que sofreu alguma prática ilegal ou abusiva durante o consumo de algum serviço ou produto? O resultado foi diferente do prometido? As informações foram prestadas de forma adequada? Você sofreu algum prejuízo em decorrência dessas falhas?
 
       Procure se informar com um profissional de sua confiança e não aceite nada menos do que os seus direitos.
 - type: portfolioblock
