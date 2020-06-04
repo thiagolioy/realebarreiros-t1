@@ -38,9 +38,9 @@ Há aqueles que entendam pela inconstitucionalidade deste dispositivo, pois a no
 
 Além do mais, não há a redução de forma direta e nominal do salário, ela estabelece uma redução proporcional à jornada respeitando o valor do salário-hora do empregado.
 
-O Governo Federal garantirá a devolução do percentual reduzido pelo empregador, que será calculada sobre o valor do seguro desemprego. Dessa forma, a negociação individual de empregados que recebam a importância de até 3 salários mínimos, ao final, poderá gerar uma redução salarial de 20% (vinte por cento) e aqueles que recebam até 1 salário mínimo, ao final não sofrerão nenhuma redução.
+O Governo Federal garantirá a devolução do percentual reduzido pelo empregador, que será calculada sobre o valor do seguro desemprego. Dessa forma, a negociação individual de empregados que recebam a importância de até 3 salários mínimos, ao final, poderá gerar uma redução salarial de até 30% (trinta por cento) e aqueles que recebam até 1 salário mínimo, ao final não sofrerão nenhuma redução.
 
-> Talvez permitir esta negociação de forma individual, para esta faixa de empregados, que recebam até 3 salários mínimos, seja um bom caminho. Afinal diante de uma possível demissão ou de um possível fechamento de portas da empresa, a redução inferior a 20% (vinte por cento) do salário seja uma medida excepcional razoavelmente aceitável para enfrentamento desta crise.
+> Talvez permitir esta negociação de forma individual, para esta faixa de empregados, que recebam até 3 salários mínimos, seja um bom caminho. Afinal diante de uma possível demissão ou de um possível fechamento de portas da empresa, a redução de aproximadamente até 30% (trinta por cento) do salário seja uma medida excepcional razoavelmente aceitável para enfrentamento desta crise.
 
 Empresas que estão 100% paralisadas, poderão acordar com seus empregados a suspensão do contrato de trabalho, dessa forma o empregador ficará somente obrigado a efetuar o pagamento dos benefícios que oferece em sua empresa (plano de saúde, vale alimentação, etc.).
 
