@@ -55,7 +55,7 @@ sections:
   subtitle: ''
   num_posts_displayed: 2
   actions:
-  - label: Veja no Blog
+  - label: Veja nossos artigos
     url: blog/index.html
 - type: newsblock
   template: newsblock
