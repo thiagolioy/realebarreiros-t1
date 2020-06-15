@@ -19,6 +19,6 @@ Além disso, o magistrado observou que as testemunhas ouvidas nada mencionaram s
 
 Na conclusão do julgador, a trabalhadora demonstrou menosprezo pelos gravíssimos erros cometidos, de forma a inviabilizar a manutenção do vínculo de emprego, tendo em vista o alto risco de venda de medicamentos incorretos.
 
-> **_“Nada justifica a desatenção da reclamante na venda de medicamentos. A gravidade do fato (entrega ao consumidor de um medicamento impróprio para a moléstia a ser tratada) é notória, já que as consequências da utilização de um remédio diverso do prescrito podem ser nefastas”,_ destacou o juiz na sentença. O fato de existirem normas internas da empresa específicas sobre o tema também contribuiu para a confirmação da justa causa. O TRT-MG manteve a sentença nesse aspecto.**
+> ##### **_“Nada justifica a desatenção da reclamante na venda de medicamentos. A gravidade do fato (entrega ao consumidor de um medicamento impróprio para a moléstia a ser tratada) é notória, já que as consequências da utilização de um remédio diverso do prescrito podem ser nefastas”,_ destacou o juiz na sentença. O fato de existirem normas internas da empresa específicas sobre o tema também contribuiu para a confirmação da justa causa. O TRT-MG manteve a sentença nesse aspecto.**
 
-Fonte
+Fonte: [Site oficial do TRT 3](https://portal.trt3.jus.br/internet/conheca-o-trt/comunicacao/noticias-juridicas/nj-justica-do-trabalho-confirma-justa-causa-de-vendedora-por-venda-incorreta-de-medicamentos)
