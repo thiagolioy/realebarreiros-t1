@@ -15,7 +15,7 @@ sections:
   title: Áreas de atuação
   section_id: services
   component: services_block.html
-  subtitle: ''
+  subtitle: Atendimento em São Lourenço-MG e região.
   serviceslist:
   - title: Direito Médico e da Saúde
     content: |-
