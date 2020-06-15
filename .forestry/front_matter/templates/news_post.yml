@@ -37,5 +37,6 @@ fields:
   config:
     required: true
 pages:
+- content/news_posts/justica-do-trabalho-confirma-justa-causa-de-vendedora-por-venda-incorreta-de-medicamentos.md
 - content/news_posts/news_post_1.md
 - content/news_posts/novo-teste-de-uma-nova-noticia-do-forestry.md
