@@ -11,11 +11,13 @@ O escritório Real e Barreiros Advogados iniciou suas atividades no ano de 2015 
 
 > Com um compromisso de uma atuação objetiva, ética e moderna, nosso atendimento é personalizado para tratar das peculiaridades de cada caso apresentado por nossos clientes.
 
-Estamos em constante aperfeiçoamento e evolução técnica em nossa atuação profissional, o que consideramos imprescindível para o cumprimento da nossa missão.
+Aperfeiçoamento e constante evolução técnica é imprescindível para uma atuação profissional, o que é considerado pelo Dr. João Pedro e pela Dra. Julianna, imprescindível para a missão do escritório.
 
 > Efetividade e proatividade, nos garante ganho de eficiência e qualidade no trabalho.
 
-Com a grande importância das redes sociais, buscamos estar presente gerando conteúdo de cunho educativo e informativo, pois, acreditamos que uma sociedade mais informada é uma sociedade melhor preparada.
+Com a grande importância das redes sociais, o escritório Real e Barreiros busca sempre estar ativo na geração de conteúdo de cunho educativo e informativo. 
+
+> Acreditamos que uma sociedade mais informada é uma sociedade melhor preparada.
 
 O escritório presta assessoria e consultoria jurídica, de forma preventiva e também no campo contencioso, visando minimizar e impedir qualquer prejuízo possível para os clientes.
 
@@ -25,7 +27,7 @@ A missão central do escritório Real e Barreiros Advogados é apresentar soluç
 
 ### NOSSA VISÃO
 
-Sermos a primeira escolha dos clientes e nos destacarmos em nossas áreas de atuação.
+Ser a primeira escolha de clientes e se destacar nas áreas de atuação.
 
 ### NOSSOS VALORES
 
