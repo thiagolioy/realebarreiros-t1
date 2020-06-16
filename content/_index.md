@@ -26,7 +26,7 @@ sections:
     content: |-
       Muitas reclamações trabalhistas podem ser evitadas, com um acompanhamento preventivo e consultivo de um profissional especializado. Será que sua empresa está cumprindo com as exigências e se resguardando da forma correta?
 
-      O ideal é impedir qualquer discussão judicial, mas se não pudermos, é melhor estarmos preparados e bem assessorados para nos livrar de condenações indevidas ou acordos meu feitos.
+      O ideal é impedir qualquer discussão judicial, mas se não pudermos, é melhor estarmos preparados e bem assessorados para evitarmos condenações indevidas ou acordos meu feitos.
   - title: Direito de Família e Sucessório
     content: |-
       Discussões familiares podem ser resolvidas de forma amigável reduzindo os impactos negativos nos envolvidos.
