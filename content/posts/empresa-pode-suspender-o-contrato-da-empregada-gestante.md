@@ -1,7 +1,6 @@
 +++
 content_img_path = "/images/mulher-de-negocios-que-trabalha-em-seu-lugar-de-funcionamento-no-escritorio_85574-12056.jpg"
 date = 2020-05-18T03:00:00Z
-draft = true
 excerpt = ""
 layout = "post"
 subtitle = "MP 936 criou a possibilidade de Suspensão do Contrato de Trabalho em decorrência do Covid-19."
