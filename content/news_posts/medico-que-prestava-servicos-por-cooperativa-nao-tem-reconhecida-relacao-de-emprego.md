@@ -1,5 +1,5 @@
 +++
-content_img_path = ""
+content_img_path = "/images/site.jpg"
 date = 2020-06-09T03:00:00Z
 excerpt = ""
 layout = "news_post"
