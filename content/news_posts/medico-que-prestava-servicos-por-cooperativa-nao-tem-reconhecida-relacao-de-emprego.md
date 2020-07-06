@@ -1,7 +1,6 @@
 +++
 content_img_path = ""
 date = 2020-06-09T03:00:00Z
-draft = true
 excerpt = ""
 layout = "news_post"
 subtitle = "Para caracterização da relação de emprego é imprescindível a presença dos requisitos do artigo 3º da CLT."
