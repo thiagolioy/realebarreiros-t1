@@ -1,7 +1,6 @@
 +++
 content_img_path = "/images/medica-preenche-o-prontuario-do-paciente_151013-8637.jpg"
 date = 2020-07-06T03:00:00Z
-draft = true
 excerpt = ""
 layout = "post"
 subtitle = "O prontuário médico se presta fundamentalmente para armazenar informações e dados relativos a exames, procedimentos e condições físicas e pessoais do paciente."
