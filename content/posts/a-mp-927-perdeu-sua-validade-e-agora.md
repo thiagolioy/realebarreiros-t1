@@ -15,7 +15,9 @@ Diferentemente da MP 936 que foi convertida na Lei 14.020 e regulada pelo Decret
 
 Portanto, a partir do dia 20 de julho, as medidas previstas nesta MP não poderiam mais ser utilizadas.
 
-Mas como ficam os acordos celebrados com os empregados e medidas adotadas durante a vigência da MP 927?
+#### Mas como ficam os acordos celebrados com os empregados e medidas adotadas durante a vigência da MP 927?
+
+![](/images/aliviando-o-estresse-no-local-de-trabalho_1098-16755.jpg)
 
 Bom, quando houver a caducidade de uma Medida Provisória fica a cargo do Congresso Nacional editar um decreto para regular os efeitos das relações jurídicas criadas.
 
