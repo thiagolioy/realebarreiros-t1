@@ -25,6 +25,16 @@ Contudo, caso não se concretize esse decreto, a nossa Constituição Federal ga
 
 Dessa forma, as férias ou feriados antecipados, o banco de horas criado e a alteração do regime para o teletrabalho são considerados válidos.
 
+![](/images/competente-equipe-com-polegares-acima_1098-3020.jpg)
+
 Mas agora, com o fim da validade da MP 927, devem ser observadas as normas previstas em nossa legislação trabalhistas, ou seja, as regras oriundas da CLT.
 
 Algumas situações merecem um pouco de atenção e acreditamos ser importante destacá-las:
+
+![](/images/imagem.jpg)**Mas e agora, como ficam os atos firmados durante a vigência da MP 927, mas que ainda surtirão efeitos ?** 
+
+Dúvidas surgirão e trouxemos algumas delas para esclarecermos de forma breve.
+
+##### Aquele que teve o regime presencial alterado para o teletrabalho, permanecerá dessa forma ?
+
+> A CLT estabelece que é necessária a concordância do empregado para a alteração do regime de trabalho, dessa forma, temos aconselhado nossos clientes a realizar um termo aditivo, contemplando a alteração e anuência do funcionário.
