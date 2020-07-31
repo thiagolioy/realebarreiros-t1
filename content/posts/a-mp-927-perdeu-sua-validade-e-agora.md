@@ -1,11 +1,10 @@
 +++
-content_img_path = ""
+content_img_path = "/images/empresario-confuso-preocupado-em-oculos-sentado-junto-a-mesa-no-cafe-mantendo-a-cabeca-e-olhando-para-o-computador-portatil_171337-5570.jpg"
 date = 2020-07-30T03:00:00Z
-draft = true
 excerpt = ""
 layout = "post"
 subtitle = "Com o retorno as regras previstas na CLT, empresas precisam estar atendas para não praticarem irregularidades."
-thumb_img_path = ""
+thumb_img_path = "/images/empresario-confuso-preocupado-em-oculos-sentado-junto-a-mesa-no-cafe-mantendo-a-cabeca-e-olhando-para-o-computador-portatil_171337-5570.jpg"
 title = "A MP 927 perdeu sua validade, e agora ?"
 
 +++
@@ -50,3 +49,21 @@ Dúvidas surgirão e trouxemos algumas delas para esclarecermos de forma breve.
 #### Como contabilizar o banco de horas após a perda de validade da MP 927 ?
 
 > Os créditos ou débito considerados até a data o dia 19/07, poderão ser compensados dentro do prazo limite estipulado pela MP 927. Já em relação as horas levadas ao banco, após essa data, deverá ser observado o prazo de 6 meses quando houver acordo escrito entre empresa e empregado ou o prazo de 1 ano, quando houver negociação coletiva.
+
+#### O acordo individual, celebrado entre empresa e empregado, poderá prevalecer sobre a lei ou norma coletiva?
+
+> Não, com o retorno do regramento previsto na CLT, a negociação coletiva terá preponderância sobre alguns dispositivos e direitos trabalhistas, não podendo o acordo individual entrar em conflito com os demais instrumentos.
+
+Essas e outras dúvidas decorrentes da perda de validade da MP 927, se não forem solucionadas através de eventual decreto, poderão gerar controvérsias a serem resolvidas no Poder Judiciário.
+
+Portanto, esteja sempre bem informado e assessorado, para evitar quaisquer discussões e prejuízos desnecessários.
+
+<div class="author-box">
+<div class="info">
+<img src="https://realebarreiros-t1-04644.netlify.app/images/e2b23012-9316-4e03-9cb2-0bc3db2a5e26.jpeg" class="profile" />
+<h2 class="name">Dr. João Pedro</h2>
+</div>
+
+<div class="about"> <p class="bio"> Dr. João Pedro Barreiros é Advogado formado na Faculdade São Lourenço, especialista em Direito Médico e Hospitalar pela Escola Paulista de Direito e especialidade em Direito do Trabalho pela Faculdade Damásio. </p>  
+</div>
+</div>
