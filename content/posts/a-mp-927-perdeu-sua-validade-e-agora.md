@@ -35,6 +35,18 @@ Algumas situações merecem um pouco de atenção e acreditamos ser importante d
 
 Dúvidas surgirão e trouxemos algumas delas para esclarecermos de forma breve.
 
-##### Aquele que teve o regime presencial alterado para o teletrabalho, permanecerá dessa forma ?
+#### Aquele que teve o regime presencial alterado para o teletrabalho, permanecerá dessa forma ?
 
 > A CLT estabelece que é necessária a concordância do empregado para a alteração do regime de trabalho, dessa forma, temos aconselhado nossos clientes a realizar um termo aditivo, contemplando a alteração e anuência do funcionário.
+
+#### Em relação ao adiantamento de férias e o pagamento do 1/3 de férias?
+
+> Com o retorno das regras da CLT não será possível adiantar férias, antes que o empregado complete o seu período aquisitivo de 12 meses. Em relação ao pagamento, deverá ocorrer em até 2 dias antes do início do gozo das férias, junto com o 1/3 de férias. 
+
+#### O que a empresa deve fazer se a autoridade municipal ou estadual antecipar feriado, que já havia sido antecipado pela empresa?
+
+> Nesse caso, entendemos que valerá a antecipação realizada pela empresa, podendo o empregado trabalhar normalmente sem que haja o pagamento diferenciado.
+
+#### Como contabilizar o banco de horas após a perda de validade da MP 927 ?
+
+> Os créditos ou débito considerados até a data o dia 19/07, poderão ser compensados dentro do prazo limite estipulado pela MP 927. Já em relação as horas levadas ao banco, após essa data, deverá ser observado o prazo de 6 meses quando houver acordo escrito entre empresa e empregado ou o prazo de 1 ano, quando houver negociação coletiva.
