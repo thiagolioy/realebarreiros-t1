@@ -1,4 +1,6 @@
-User-agent: * 
+User-agent: *
 Disallow: /scripts/
-Disallow: /images/*.jpg
+Disallow: /images/*.jpg$
+Disallow: /assets/
+
 Sitemap: https://www.realebarreiros.com.br/sitemap.xml
