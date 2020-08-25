@@ -1,138 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 
 <url>
   <loc>https://www.realebarreiros.com.br/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/hist%C3%B3ria/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/%C3%A1reas-de-atua%C3%A7%C3%A3o/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/blog/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/news/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/contact/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.85</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/projects/project-2/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/projects/project-3/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/posts/a-mp-927-perdeu-sua-validade-e-agora/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/posts/prontuario-medico-e-a-importancia-do-sigilo-e-armazenamento/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/blog/index.html</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/news_posts/uniao-deve-fornecer-a-paciente-medicamento-para-cancer-no-ovario/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/news_posts/justica-federal-mantem-proibida-divulgacao-de-imagens-de-antes-e-depois/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/news/index.html</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/direito-m%C3%A9dico/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/direito-trabalho/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/posts/empresa-pode-suspender-o-contrato-da-empregada-gestante/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/posts/2019-03-27-why-fonts-matter/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/posts/2019-03-24-workplace/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/posts/2016-08-22-working-from-home/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/news_posts/decisao-judicial-obriga-plano-a-autorizar-exame-de-covid-19/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/news_posts/pagamento-de-salario-sem-registro-em-folha-enseja-dano-moral-decide-tst/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/news_posts/vendedor-que-nao-pode-manter-plano-de-saude-apos-demissao-sera-indenizado/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/news_posts/medico-que-prestava-servicos-por-cooperativa-nao-tem-reconhecida-relacao-de-emprego/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.realebarreiros.com.br/news_posts/justica-do-trabalho-confirma-justa-causa-de-vendedora-por-venda-incorreta-de-medicamentos/</loc>
   <lastmod>2020-08-25T20:57:10+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
-
-
-
 </urlset>
