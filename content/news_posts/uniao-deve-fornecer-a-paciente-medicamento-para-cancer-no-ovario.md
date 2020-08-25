@@ -20,7 +20,7 @@ O magistrado explicou que quando o tratamento pleiteado está inserido nos proto
 
 Nesse passo, conforme pontuou o magistrado, o fornecimento de medicamentos não disponíveis no SUS, para o tratamento de determinado quadro de saúde, **depende do preenchimento de requisitos de ordem técnica, econômico-financeira e sanitária.**
 
-Em sua análise, o magistrado concluiu que todos os requisitos foram comprovados. 
+Em sua análise, o magistrado concluiu que todos os requisitos foram comprovados.
 
 > #### _"Preenchidos, então, todos os requisitos consagrados na jurisprudência dos tribunais superiores, é de se reconhecer, em sede de cognição sumária, a probabilidade do direito ao fornecimento, pelo Poder Público, do medicamento pleiteado"._
 
@@ -28,4 +28,4 @@ Em sua análise, o magistrado concluiu que todos os requisitos foram comprovados
 
 Veja a [decisão](https://www.migalhas.com.br/arquivos/2020/8/FC055D4F859655_medicamento.pdf).
 
-Fonte: [Site Migalhas]()
+Fonte: [Site Migalhas](https://www.migalhas.com.br/quentes/331984/uniao-deve-fornecer-a-paciente-medicamento-para-cancer-no-ovario)
