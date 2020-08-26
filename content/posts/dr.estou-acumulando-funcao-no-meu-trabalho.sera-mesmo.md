@@ -39,3 +39,13 @@ Agora, caso não estejamos diante de uma alteração quantitativa e/ou qualitati
 Quer dizer que dentro de sua jornada de trabalho, o empregado está a disposição do seu empregador para desempenhar todo um conjunto de tarefas que for compatível ao cargo para o qual foi originalmente contratado.
 
 Portanto, após a leitura deste artigo e esclarecimentos acerca do acúmulo de função, caso você se identifique com a situação  apresentada no presente artigo, procure se informar e se consulte com um profissional especializado na área.
+
+<div class="author-box">
+<div class="info">
+<img src="https://realebarreiros-t1-04644.netlify.app/images/e2b23012-9316-4e03-9cb2-0bc3db2a5e26.jpeg" class="profile" />
+<h2 class="name">Dr. João Pedro</h2>
+</div>
+
+<div class="about"> <p class="bio"> Dr. João Pedro Barreiros é Advogado formado na Faculdade São Lourenço, especialista em Direito Médico e Hospitalar pela Escola Paulista de Direito e também especialista em Direito do Trabalho pela Faculdade Damásio. </p>  
+</div>
+</div>
