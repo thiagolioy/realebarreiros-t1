@@ -5,7 +5,7 @@ excerpt = ""
 layout = "post"
 subtitle = "Acúmulo de função na relação de emprego."
 thumb_img_path = "/images/muito-trabalho-espera-por-mulher-cansada-e-exausta_151013-13578.jpg"
-title = "\"Dr. estou estou sofrendo acúmulo de função no meu trabalho.\" Será mesmo?"
+title = "\"Dr. estou estou sofrendo acúmulo de função no meu trabalho.\" - Será mesmo?"
 
 +++
 Questão corriqueira que aparece em nosso escritório é a reclamação acerca de acúmulo de função. Tema que gera bastante dúvidas no âmbito trabalhista.
