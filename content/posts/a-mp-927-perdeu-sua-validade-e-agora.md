@@ -30,7 +30,9 @@ Mas agora, com o fim da validade da MP 927, devem ser observadas as normas previ
 
 Algumas situações merecem um pouco de atenção e acreditamos ser importante destacá-las:
 
-![](/images/imagem.jpg)**Mas e agora, como ficam os atos firmados durante a vigência da MP 927, mas que ainda surtirão efeitos ?** 
+![](/images/imagem.jpg)
+
+**Mas e agora, como ficam os atos firmados durante a vigência da MP 927, mas que ainda surtirão efeitos ?**
 
 Dúvidas surgirão e trouxemos algumas delas para esclarecermos de forma breve.
 
@@ -40,7 +42,7 @@ Dúvidas surgirão e trouxemos algumas delas para esclarecermos de forma breve.
 
 #### Em relação ao adiantamento de férias e o pagamento do 1/3 de férias?
 
-> Com o retorno das regras da CLT não será possível adiantar férias, antes que o empregado complete o seu período aquisitivo de 12 meses. Em relação ao pagamento, deverá ocorrer em até 2 dias antes do início do gozo das férias, junto com o 1/3 de férias. 
+> Com o retorno das regras da CLT não será possível adiantar férias, antes que o empregado complete o seu período aquisitivo de 12 meses. Em relação ao pagamento, deverá ocorrer em até 2 dias antes do início do gozo das férias, junto com o 1/3 de férias.
 
 #### O que a empresa deve fazer se a autoridade municipal ou estadual antecipar feriado, que já havia sido antecipado pela empresa?
 
