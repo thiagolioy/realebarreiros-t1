@@ -1,7 +1,6 @@
 +++
 content_img_path = "/images/relaxe-o-conceito-da-estrela-do-mar-dos-seashells-do-texto_53876-30261.jpg"
 date = 2020-09-17T03:00:00Z
-draft = true
 excerpt = ""
 layout = "post"
 subtitle = "Como funciona, quem escolhe o período, como é o pagamento."
