@@ -3,9 +3,9 @@ content_img_path = "/images/relaxe-o-conceito-da-estrela-do-mar-dos-seashells-do
 date = 2020-09-17T03:00:00Z
 excerpt = ""
 layout = "post"
-subtitle = "Como funciona, quem escolhe o período, como é o pagamento."
+subtitle = "Como funciona ? Quais são os direitos e deveres do empregado e da empresa."
 thumb_img_path = "/images/relaxe-o-conceito-da-estrela-do-mar-dos-seashells-do-texto_53876-30261.jpg"
-title = "Férias - Descanso merecido !"
+title = "Férias - Hora de descansar, relaxar e recarregar as energias."
 
 +++
 Férias é aquele momento esperado e desejado por toda pessoa que possuí um vínculo de emprego. Seja para viajar, renovar as energias e aproveitar a família ou simplesmente para não ter que trabalhar, todo mundo que é funcionário já entra no ano imaginando ou projetando suas férias.
