@@ -15,4 +15,4 @@ Após a conclusão de sua primeira pós graduação e bastante influenciado por 
 
 Sempre com sede de aprendizado e motivado a evoluir e aumentar os seus conhecimentos é grande frequentador de congressos, seminários e simpósios em ambas as áreas.
 
-> #### "Vejo que a atuação do advogado deve ir além dos limites da criação e acompanhamento processual. Nós lidamos com pessoas, direitos que impactam diretamente na vida delas. É preciso ter humanidade, garantir uma atenção digna e sempre buscar o melhor e mais justo resultado para o cliente.".
+> ### "Vejo que a atuação do advogado deve ir além dos limites da criação e acompanhamento processual. Nós lidamos com pessoas, direitos que impactam diretamente na vida delas. É preciso ter humanidade, garantir uma atenção digna e sempre buscar o melhor e mais justo resultado para o cliente.".
