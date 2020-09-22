@@ -1,17 +1,16 @@
 +++
 content_img_path = "/images/conceito-do-seguro-de-saude-mao-que-arranja-o-bloco-de-madeira-que-empilha-com-os-cuidados-medicos-do-icone-medicos_34936-3183.jpg"
 date = 2020-09-22T03:00:00Z
-draft = true
 excerpt = ""
 layout = "post"
-subtitle = ""
+subtitle = "Entenda sobre carência, portabilidade e outras importantes questões que podem impactar no seu dia a dia."
 thumb_img_path = "/images/conceito-do-seguro-de-saude-mao-que-arranja-o-bloco-de-madeira-que-empilha-com-os-cuidados-medicos-do-icone-medicos_34936-3183.jpg"
-title = "Plano de Saúde"
+title = "Você sabe quais são os limites de carência para os planos de saúde?"
 
 +++
 Ao contratar um plano de saúde, é muito importante avaliar e ficar atento aos prazos de carência. Muitas pessoas já ouviram falar sobre, mas não entendem exatamente como funciona e quais são as suas aplicações na prática.
 
-**Então, vamos iniciar entendendo, o que é a carência?**
+**Então, vamos iniciar nosso estudo entendendo, o que é a carência?**
 
 > ##### A carência é o período previsto contratualmente, no qual o beneficiário deverá aguardar para ter acesso a determinadas coberturas previstas. Ou seja, você estará realizando o pagamento da mensalidade, mas ainda não poderá usufruir dos serviços contratados.
 
@@ -31,7 +30,7 @@ Dessa forma, apesar de cada operadora estabelecer quais serão os seus prazos de
 
 > ##### Carência de no máximo 24 horas para casos de urgência, acidentes pessoais ou complicações no processo gestacional, e emergência, risco imediato à vida ou lesões irreparáveis;
 
-> ##### Carência de no máximo 300 dias, para partos a termo, excluídos os partos prematuros 
+> ##### Carência de no máximo 300 dias, para partos a termo, excluídos os partos prematuros
 
 > ##### Carência de no máximo 24 meses para doenças e lesões preexistentes (quando contratou o plano de saúde, a pessoa já sabia possuir.
 
