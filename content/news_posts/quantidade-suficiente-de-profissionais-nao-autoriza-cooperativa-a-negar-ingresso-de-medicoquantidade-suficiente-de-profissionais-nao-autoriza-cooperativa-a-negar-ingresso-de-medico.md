@@ -5,7 +5,7 @@ excerpt = ""
 layout = "news_post"
 subtitle = "Para TJ/GO, a impossibilidade técnica prevista como requisito legal para inibir a adesão ao quadro de cooperados somente diz respeito à capacitação para o exercício da profissão."
 thumb_img_path = "/images/f3284dfb3db4b9dd3277d2e81520dd0da318_medico.jpg"
-title = "Quantidade suficiente de profissionais não autoriza cooperativa a negar ingresso de médicoQuantidade suficiente de profissionais não autoriza cooperativa a negar ingresso de médico."
+title = "Quantidade suficiente de profissionais não autoriza cooperativa a negar ingresso de médico."
 
 +++
 A 4ª câmara Cível do TJ/GO manteve sentença que julgou procedente ação de oftalmologista que solicitou ingresso em cooperativa médica e teve o pleito negado.
