@@ -3,9 +3,9 @@ content_img_path = "/images/mulheres-lutando-contra-o-cancer-de-mama_53876-63177
 date = 2020-10-05T03:00:00Z
 excerpt = ""
 layout = "post"
-subtitle = "A reconstrução das mamas, de forma completa, é direito de toda mulher que lutou contra o câncer."
+subtitle = "A reconstrução das mamas, de forma completa, é direito de toda mulher que batalhou contra o câncer."
 thumb_img_path = "/images/mulheres-lutando-contra-o-cancer-de-mama_53876-63177.jpg"
-title = "Direito à reconstrução mamária para mulheres que batalham contra o câncer de mama."
+title = "Direito à reconstrução mamária para mulheres que lutaram contra o câncer de mama."
 
 +++
 O câncer da mama é hoje um problema de saúde pública, a neoplasia maligna é o câncer mais comum entre as mulheres depois do câncer de pele não melanoma. No Brasil estimam-se que 66.280 casos de câncer de mama surgirão para cada ano do triênio 2020-2022. Esse valor corresponde a um risco estimado de 61,61 novos casos a cada 100 mil mulheres (fonte INCA).
